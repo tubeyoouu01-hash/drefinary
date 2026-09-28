@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "tagline": "Refinando Energía para un Continente en Crecimiento",
+    "subTagline": "Procesamiento de Crudo, Distribución y Apoyo a la Exploración"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Nuestros Servicios",
+    "sustainability": "Sostenibilidad",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "description": "{{siteName}} procesa petróleo crudo en combustibles refinados y productos petroquímicos, atendiendo a clientes industriales y comerciales en África Occidental y más allá.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Nuestros Servicios",
+    "getInTouch": "Contáctanos",
+    "follow": "Síguenos",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "disclaimer": "Las capacidades de la planta, certificaciones y cifras operativas mencionadas en este sitio son ilustrativas hasta su verificación independiente. Los posibles socios deben solicitar documentación actualizada directamente."
+  },
+  "common": {
+    "learnMore": "Saber Más",
+    "contactUs": "Contáctanos",
+    "readMore": "Leer Más",
+    "viewAll": "Ver Todos los Servicios",
+    "getStarted": "Comenzar"
+  },
+  "home": {
+    "heroEyebrow": "Fundada en 2011 — Okigwe, Estado de Imo, Nigeria",
+    "heroTitle": "Convertimos el crudo en el combustible que mantiene a la industria en marcha.",
+    "heroSubtitle": "{{siteName}} opera una planta de procesamiento moderna dedicada a refinar petróleo crudo en combustibles premium y productos petroquímicos, respaldada por un riguroso control de calidad y un firme compromiso con operaciones seguras y responsables.",
+    "heroCtaSecondary": "Explora Nuestros Servicios",
+    "stats": [
+      { "value": "13+", "label": "Años en Operación" },
+      { "value": "3", "label": "Líneas de Servicio Principales" },
+      { "value": "24/7", "label": "Monitoreo de la Planta" },
+      { "value": "ISO", "label": "Sistemas de Calidad Alineados" }
+    ],
+    "introTitle": "Una refinería independiente basada en la disciplina de procesos",
+    "introBody1": "{{siteName}} se estableció con un propósito simple: convertir petróleo crudo en los combustibles y materias primas petroquímicas de los que depende la industria regional, de manera confiable y con especificaciones constantes.",
+    "introBody2": "Nuestra planta combina unidades modernas de destilación y procesamiento con un equipo técnico experimentado, lo que nos da la flexibilidad para satisfacer las necesidades cambiantes de socios compradores tanto locales como internacionales.",
+    "servicesTitle": "Lo que hacemos",
+    "servicesSubtitle": "Tres líneas de servicio, cada una centrada en una etapa distinta de la cadena de valor del petróleo.",
+    "pillarsTitle": "Cómo operamos",
+    "pillarsSubtitle": "La seguridad, la responsabilidad ambiental y el aseguramiento de calidad se tratan como requisitos operativos, no como algo secundario.",
+    "testimonials": [
+      { "text": "{{shortName}} ha sido consistente de una manera difícil de encontrar en este mercado. Los cronogramas de entrega se cumplen, las hojas de especificación del producto coinciden con lo que realmente llega, y cuando algo necesita aclararse, alguien contesta el teléfono.", "role": "Gerente de Compras, Empresa de Distribución Regional" },
+      { "text": "Evaluamos varios proveedores regionales antes de decidirnos por {{shortName}}. Lo que destacó fue cuánta documentación estuvieron dispuestos a compartir de antemano, y qué tan de cerca sus resultados de laboratorio coincidían con nuestras propias pruebas independientes.", "role": "Directora de Cadena de Suministro, Fabricante Industrial" },
+      { "text": "Trabajar con {{shortName}} en la coordinación logística ha sido sencillo. Planifican en torno a nuestras ventanas de entrega en lugar de esperar que nosotros planifiquemos en torno a las suyas, lo cual parece poca cosa hasta que has tratado con proveedores que no lo hacen.", "role": "Jefe de Operaciones, Red de Venta de Combustible" }
+    ],
+    "prevTestimonial": "Testimonio anterior",
+    "nextTestimonial": "Testimonio siguiente",
+    "ctaTitle": "¿Interesado en trabajar con nosotros?",
+    "ctaBody": "Cuéntanos sobre tus necesidades de suministro, distribución o apoyo a la exploración y nuestro equipo se pondrá en contacto.",
+    "ctaButton": "Contáctanos"
+  },
+  "about": {
+    "heroTitle": "Sobre {{siteName}}",
+    "heroSubtitle": "Una refinería independiente construida sobre la disciplina de procesos, la seguridad y la calidad constante del producto.",
+    "storyTitle": "Nuestra Historia",
+    "storyBody1": "{{siteName}} se fundó para abordar una brecha persistente en el suministro regional de combustible: demasiados compradores dependían de intermediarios alejados varias capas de la producción real, con poca visibilidad sobre cómo se obtenía o probaba su combustible.",
+    "storyBody2": "Construimos nuestra operación en torno al enfoque opuesto: procesamiento directo, documentación transparente y un equipo técnico que puede responder preguntas detalladas sobre nuestro propio producto, porque son ellos quienes operan las unidades que lo fabrican.",
+    "storyBody3": "Ese enfoque ha moldeado nuestro crecimiento. Cada nueva relación con un cliente comienza con documentación y, cuando corresponde, una invitación a verificar nuestros procesos en lugar de simplemente creer en nuestra palabra.",
+    "missionTitle": "Nuestra Misión",
+    "missionBody": "Procesar petróleo crudo en combustibles en los que nuestros clientes puedan confiar sin tener que verificarlos dos veces, y ser directos sobre nuestras capacidades cuando no puedan.",
+    "valuesTitle": "Lo que guía nuestras operaciones",
+    "values": [
+      { "title": "Disciplina de Proceso", "body": "Procedimientos consistentes en cada etapa, desde la recepción del crudo hasta el despacho del producto final, para que la calidad no dependa de quién esté de turno." },
+      { "title": "Transparencia", "body": "Los clientes pueden solicitar resultados de laboratorio, hojas de especificación y documentación de procesos: tratamos el escrutinio como algo normal, no como un inconveniente." },
+      { "title": "Seguridad Primero", "body": "Ningún plazo de entrega o presión comercial anula un procedimiento de seguridad. Eso es una regla, no una sugerencia." },
+      { "title": "Relaciones a Largo Plazo", "body": "Preferimos crecer lentamente con clientes que confían en nuestra documentación que crecer rápido con quienes no la solicitan." }
+    ],
+    "leadershipTitle": "Nuestro Equipo",
+    "leadershipBody": "Nuestros equipos técnicos y comerciales están organizados para que las consultas lleguen a alguien que realmente entienda la pregunta de proceso o logística relevante, en lugar de un generalista leyendo un guion. Los datos de contacto del personal individual no se muestran en este sitio; usa la página de Contacto para llegar al departamento correcto.",
+    "licenseNote": "{{siteName}} opera bajo permisos de refinación y ambientales apropiados para su jurisdicción (Permiso N.º [Número de Permiso]). Los posibles socios pueden solicitar la documentación de permisos vigente directamente."
+  },
+  "services": {
+    "heroTitle": "Nuestros Servicios",
+    "heroSubtitle": "Tres líneas de servicio que cubren el procesamiento de crudo, la distribución y el apoyo a la exploración.",
+    "introTitle": "Construido en torno a toda la cadena de valor",
+    "introBody": "Desde el momento en que el crudo llega a nuestra planta hasta el momento en que el producto refinado sale para su entrega, cada etapa es gestionada por un equipo dedicado con la experiencia específica que esa etapa requiere.",
+    "serviceNames": {
+      "refining": "Refinación de Petróleo",
+      "distribution": "Distribución y Logística",
+      "exploration": "Apoyo a la Exploración"
+    },
+    "serviceDescriptions": {
+      "refining": "Procesamiento de petróleo crudo mediante unidades modernas de destilación y tratamiento, produciendo combustibles refinados y materias primas petroquímicas con especificaciones constantes.",
+      "distribution": "Entrega coordinada de productos refinados mediante camiones cisterna y, donde la infraestructura lo permite, ferrocarril y oleoducto, ajustada a los cronogramas de entrega del cliente.",
+      "exploration": "Servicios de apoyo técnico y logístico para socios upstream que evalúan y desarrollan prospectos regionales de hidrocarburos."
+    },
+    "servicePoints": {
+      "refining": [
+        "Procesamiento por destilación atmosférica y al vacío",
+        "Unidades de tratamiento para reducción de azufre y acabado del producto",
+        "Pruebas de laboratorio internas según las hojas de especificación del producto",
+        "Documentación de lote disponible a solicitud"
+      ],
+      "distribution": [
+        "Red de entrega mediante camiones cisterna en toda la región",
+        "Programación de entregas coordinada según el horario operativo del cliente",
+        "Seguimiento del producto desde el despacho hasta la confirmación de entrega",
+        "Acuerdos de suministro a granel y por contrato"
+      ],
+      "exploration": [
+        "Apoyo técnico consultivo para la planificación de exploración",
+        "Coordinación logística para el suministro de sitios de exploración",
+        "Apoyo de enlace con procesos regulatorios regionales",
+        "Disponible por proyecto o por contrato de retención"
+      ]
+    },
+    "ctaTitle": "¿Tienes una necesidad en alguna de estas áreas?",
+    "ctaBody": "Cuéntanos qué necesitas y el equipo correspondiente se pondrá en contacto con los siguientes pasos."
+  },
+  "sustainability": {
+    "heroTitle": "Sostenibilidad",
+    "heroSubtitle": "Seguridad, responsabilidad ambiental y aseguramiento de calidad, tratados como requisitos operativos.",
+    "introTitle": "Operar de forma responsable no es opcional",
+    "introBody": "Una refinería que recorta gastos en seguridad o controles ambientales es un riesgo para todos los que están conectados con ella: sus trabajadores, sus vecinos y sus clientes. Estructuramos nuestras operaciones en torno a esa realidad, no en torno al mínimo necesario para aprobar una inspección.",
+    "pillarNames": {
+      "safety": "Salud y Seguridad",
+      "environment": "Medio Ambiente",
+      "quality": "Calidad"
+    },
+    "pillarDescriptions": {
+      "safety": "Capacitación integral en HSE, cumplimiento obligatorio del EPP y una política de tolerancia cero ante atajos inseguros, sin importar la presión de producción.",
+      "environment": "Sistemas de monitoreo y control de emisiones, manejo responsable de residuos y evaluación continua de opciones de procesamiento de menor impacto.",
+      "quality": "Pruebas de laboratorio internas en cada etapa de la producción, con trazabilidad completa del lote desde la recepción del crudo hasta el despacho del producto final."
+    },
+    "ctaTitle": "¿Quieres más detalles sobre nuestros estándares operativos?",
+    "ctaBody": "Con gusto compartimos nuestra documentación actual de seguridad y medio ambiente con posibles socios."
+  },
+  "contact": {
+    "heroTitle": "Contáctanos",
+    "heroSubtitle": "¿Preguntas sobre nuestros servicios, capacidad o documentación? Comunícate con nuestro equipo abajo.",
+    "detailsTitle": "Datos de Contacto",
+    "addressLabel": "Planta",
+    "emailLabel": "Correo",
+    "phoneLabel": "Teléfono",
+    "hoursLabel": "Horario",
+    "hours": "Lunes a viernes, 8:00–17:00 (WAT)",
+    "formTitle": "Enviar un Mensaje",
+    "labels": {
+      "fullName": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "company": "Empresa",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje"
+    },
+    "disclaimer": "Al enviar este formulario se abrirá tu cliente de correo con tu mensaje prellenado, listo para enviar directamente a nuestro equipo.",
+    "mapNote": "Marcador de mapa — solo ubicación de muestra."
+  },
+  "legal": {
+    "privacyTitle": "Política de Privacidad",
+    "privacyBody": "Recopilamos la información que nos proporcionas al consultar sobre nuestros servicios o contactar a nuestro equipo, junto con datos técnicos limitados necesarios para operar este sitio. Utilizamos esta información para responder consultas y evaluar posibles relaciones comerciales. No vendemos información personal a terceros. Puedes solicitar acceso, corrección o eliminación de tu información personal en cualquier momento contactando a nuestro equipo.",
+    "termsTitle": "Términos de Servicio",
+    "termsBody": "Al utilizar este sitio web, aceptas proporcionar información precisa en cualquier consulta que envíes. La disponibilidad del producto, las especificaciones y los términos de entrega están sujetos a evaluación individual, aprobación regulatoria aplicable y acuerdo contractual formal; nada en este sitio constituye una oferta o garantía de suministro. Cualquier disputa derivada del uso de este sitio o de nuestros servicios se abordará primero a través de nuestro proceso interno de reclamaciones."
+  }
+}

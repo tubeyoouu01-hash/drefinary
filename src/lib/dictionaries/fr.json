@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "tagline": "Raffiner l'Énergie pour un Continent en Croissance",
+    "subTagline": "Traitement du Brut, Distribution et Appui à l'Exploration"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Nos Services",
+    "sustainability": "Durabilité",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "{{siteName}} transforme le pétrole brut en carburants raffinés et en produits pétrochimiques, au service de clients industriels et commerciaux en Afrique de l'Ouest et au-delà.",
+    "quickLinks": "Liens Rapides",
+    "services": "Nos Services",
+    "getInTouch": "Nous Contacter",
+    "follow": "Suivez-Nous",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "disclaimer": "Les capacités de l'installation, les certifications et les chiffres opérationnels mentionnés sur ce site sont indicatifs en attendant une vérification indépendante. Les partenaires potentiels sont invités à demander directement la documentation actuelle."
+  },
+  "common": {
+    "learnMore": "En Savoir Plus",
+    "contactUs": "Nous Contacter",
+    "readMore": "Lire Plus",
+    "viewAll": "Voir Tous les Services",
+    "getStarted": "Commencer"
+  },
+  "home": {
+    "heroEyebrow": "Fondée en 2011 — Okigwe, État d'Imo, Nigéria",
+    "heroTitle": "Transformer le brut en carburant qui fait tourner l'industrie.",
+    "heroSubtitle": "{{siteName}} exploite une installation de traitement moderne dédiée au raffinage du pétrole brut en carburants premium et produits pétrochimiques, soutenue par un contrôle qualité rigoureux et un engagement ferme envers des opérations sûres et responsables.",
+    "heroCtaSecondary": "Découvrir Nos Services",
+    "stats": [
+      { "value": "13+", "label": "Années d'Activité" },
+      { "value": "3", "label": "Lignes de Service Principales" },
+      { "value": "24/7", "label": "Surveillance de l'Installation" },
+      { "value": "ISO", "label": "Systèmes Qualité Alignés" }
+    ],
+    "introTitle": "Une raffinerie indépendante fondée sur la rigueur des processus",
+    "introBody1": "{{siteName}} a été créée dans un but simple : transformer le pétrole brut en carburants et intrants pétrochimiques dont dépend l'industrie régionale, de manière fiable et à spécification constante.",
+    "introBody2": "Notre installation combine des unités modernes de distillation et de traitement avec une équipe technique expérimentée, ce qui nous donne la flexibilité nécessaire pour répondre aux besoins évolutifs de nos partenaires acheteurs, locaux comme internationaux.",
+    "servicesTitle": "Ce que nous faisons",
+    "servicesSubtitle": "Trois lignes de service, chacune construite autour d'une étape distincte de la chaîne de valeur pétrolière.",
+    "pillarsTitle": "Comment nous opérons",
+    "pillarsSubtitle": "La sécurité, la responsabilité environnementale et l'assurance qualité sont traitées comme des exigences opérationnelles, et non comme des considérations secondaires.",
+    "testimonials": [
+      { "text": "{{shortName}} fait preuve d'une constance difficile à trouver sur ce marché. Les délais de livraison sont respectés, les fiches techniques du produit correspondent à ce qui arrive réellement, et quand quelque chose doit être clarifié, quelqu'un décroche le téléphone.", "role": "Responsable des Achats, Entreprise de Distribution Régionale" },
+      { "text": "Nous avons évalué plusieurs fournisseurs régionaux avant de choisir {{shortName}}. Ce qui a marqué la différence, c'est la quantité de documentation qu'ils étaient prêts à partager en amont, et la cohérence de leurs résultats de laboratoire avec nos propres tests indépendants.", "role": "Directrice de la Chaîne d'Approvisionnement, Fabricant Industriel" },
+      { "text": "Travailler avec {{shortName}} sur la coordination logistique a été simple. Ils planifient en fonction de nos fenêtres de livraison plutôt que d'attendre que nous nous adaptions aux leurs, ce qui semble anodin jusqu'à ce qu'on ait affaire à des fournisseurs qui ne le font pas.", "role": "Responsable des Opérations, Réseau de Distribution de Carburant" }
+    ],
+    "prevTestimonial": "Témoignage précédent",
+    "nextTestimonial": "Témoignage suivant",
+    "ctaTitle": "Intéressé à travailler avec nous ?",
+    "ctaBody": "Parlez-nous de vos besoins en approvisionnement, distribution ou appui à l'exploration, et notre équipe vous recontactera.",
+    "ctaButton": "Nous Contacter"
+  },
+  "about": {
+    "heroTitle": "À Propos de {{siteName}}",
+    "heroSubtitle": "Une raffinerie indépendante fondée sur la rigueur des processus, la sécurité et la qualité constante des produits.",
+    "storyTitle": "Notre Histoire",
+    "storyBody1": "{{siteName}} a été fondée pour combler une lacune persistante dans l'approvisionnement régional en carburant : trop d'acheteurs dépendaient d'intermédiaires éloignés de plusieurs échelons de la production réelle, avec peu de visibilité sur la provenance ou les tests de leur carburant.",
+    "storyBody2": "Nous avons construit notre activité selon l'approche inverse — traitement direct, documentation transparente, et une équipe technique capable de répondre à des questions précises sur notre propre produit, car ce sont eux qui exploitent les unités qui le fabriquent.",
+    "storyBody3": "Cette approche a façonné notre croissance. Chaque nouvelle relation client commence par de la documentation et, le cas échéant, une invitation à vérifier nos processus plutôt qu'à simplement nous croire sur parole.",
+    "missionTitle": "Notre Mission",
+    "missionBody": "Transformer le pétrole brut en carburants sur lesquels nos clients peuvent compter sans avoir à revérifier, et être clairs sur nos capacités lorsque ce n'est pas le cas.",
+    "valuesTitle": "Ce qui guide nos opérations",
+    "values": [
+      { "title": "Rigueur des Processus", "body": "Des procédures cohérentes à chaque étape, de la réception du brut à l'expédition du produit final, afin que la qualité ne dépende pas de l'équipe de service." },
+      { "title": "Transparence", "body": "Les clients peuvent demander des résultats de laboratoire, des fiches techniques et de la documentation de processus — nous considérons l'examen minutieux comme normal, pas comme une gêne." },
+      { "title": "La Sécurité d'Abord", "body": "Aucun délai de livraison ni pression commerciale ne prime sur une procédure de sécurité. C'est une règle, pas une simple recommandation." },
+      { "title": "Relations à Long Terme", "body": "Nous préférons croître lentement avec des clients qui font confiance à notre documentation plutôt que rapidement avec ceux qui ne la demandent pas." }
+    ],
+    "leadershipTitle": "Notre Équipe",
+    "leadershipBody": "Nos équipes techniques et commerciales sont organisées de façon à ce que chaque demande atteigne une personne qui comprend réellement la question de processus ou de logistique concernée, plutôt qu'un généraliste suivant un script. Les coordonnées directes du personnel ne sont pas indiquées sur ce site — utilisez la page Contact pour joindre le bon service.",
+    "licenseNote": "{{siteName}} opère sous des permis de raffinage et environnementaux appropriés à sa juridiction (Permis n° [Numéro de Permis]). Les partenaires potentiels sont invités à demander directement la documentation de permis actuelle."
+  },
+  "services": {
+    "heroTitle": "Nos Services",
+    "heroSubtitle": "Trois lignes de service couvrant le traitement du brut, la distribution et l'appui à l'exploration.",
+    "introTitle": "Construits autour de toute la chaîne de valeur",
+    "introBody": "Depuis l'arrivée du pétrole brut dans notre installation jusqu'au départ du produit raffiné pour livraison, chaque étape est gérée par une équipe dédiée disposant de l'expertise spécifique requise.",
+    "serviceNames": {
+      "refining": "Raffinage du Pétrole",
+      "distribution": "Distribution et Logistique",
+      "exploration": "Appui à l'Exploration"
+    },
+    "serviceDescriptions": {
+      "refining": "Traitement du pétrole brut au moyen d'unités modernes de distillation et de traitement, produisant des carburants raffinés et des intrants pétrochimiques à spécification constante.",
+      "distribution": "Livraison coordonnée des produits raffinés par camion-citerne et, lorsque l'infrastructure le permet, par rail et par pipeline, adaptée aux calendriers de livraison des clients.",
+      "exploration": "Services d'appui technique et logistique pour les partenaires amont évaluant et développant des perspectives régionales d'hydrocarbures."
+    },
+    "servicePoints": {
+      "refining": [
+        "Traitement par distillation atmosphérique et sous vide",
+        "Unités de traitement pour la réduction du soufre et la finition des produits",
+        "Tests de laboratoire internes selon les fiches techniques du produit",
+        "Documentation de lot disponible sur demande"
+      ],
+      "distribution": [
+        "Réseau de livraison par camion-citerne dans toute la région",
+        "Planification des livraisons coordonnée selon les horaires d'exploitation du client",
+        "Suivi du produit de l'expédition à la confirmation de livraison",
+        "Accords d'approvisionnement en vrac et sous contrat"
+      ],
+      "exploration": [
+        "Appui technique consultatif pour la planification de l'exploration",
+        "Coordination logistique pour l'approvisionnement des sites d'exploration",
+        "Appui de liaison avec les processus réglementaires régionaux",
+        "Disponible sur une base ponctuelle ou par contrat de rétention"
+      ]
+    },
+    "ctaTitle": "Un besoin dans l'un de ces domaines ?",
+    "ctaBody": "Dites-nous ce dont vous avez besoin et l'équipe concernée vous recontactera avec les prochaines étapes."
+  },
+  "sustainability": {
+    "heroTitle": "Durabilité",
+    "heroSubtitle": "Sécurité, responsabilité environnementale et assurance qualité, traitées comme des exigences opérationnelles.",
+    "introTitle": "Opérer de façon responsable n'est pas optionnel",
+    "introBody": "Une raffinerie qui fait des économies sur la sécurité ou les contrôles environnementaux représente un risque pour tous ceux qui y sont liés — ses employés, ses voisins et ses clients. Nous structurons nos opérations autour de cette réalité, et non autour du minimum requis pour passer une inspection.",
+    "pillarNames": {
+      "safety": "Santé et Sécurité",
+      "environment": "Environnement",
+      "quality": "Qualité"
+    },
+    "pillarDescriptions": {
+      "safety": "Formation HSE complète, conformité obligatoire aux EPI, et politique de tolérance zéro envers les raccourcis dangereux, quelle que soit la pression de production.",
+      "environment": "Systèmes de surveillance et de contrôle des émissions, gestion responsable des déchets, et évaluation continue d'options de traitement à impact réduit.",
+      "quality": "Tests de laboratoire internes à chaque étape de la production, avec une traçabilité complète des lots depuis la réception du brut jusqu'à l'expédition du produit final."
+    },
+    "ctaTitle": "Vous souhaitez plus de détails sur nos normes opérationnelles ?",
+    "ctaBody": "Nous serons heureux de partager notre documentation actuelle en matière de sécurité et d'environnement avec les partenaires potentiels."
+  },
+  "contact": {
+    "heroTitle": "Nous Contacter",
+    "heroSubtitle": "Des questions sur nos services, notre capacité ou notre documentation ? Contactez notre équipe ci-dessous.",
+    "detailsTitle": "Coordonnées",
+    "addressLabel": "Installation",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Téléphone",
+    "hoursLabel": "Horaires",
+    "hours": "Lundi–vendredi, 8h00–17h00 (WAT)",
+    "formTitle": "Envoyer un Message",
+    "labels": {
+      "fullName": "Nom Complet",
+      "email": "Adresse E-mail",
+      "company": "Entreprise",
+      "subject": "Objet",
+      "message": "Message",
+      "submit": "Envoyer le Message"
+    },
+    "disclaimer": "L'envoi de ce formulaire ouvrira votre client de messagerie avec votre message pré-rempli, prêt à être envoyé directement à notre équipe.",
+    "mapNote": "Repère de carte fictif — emplacement fictif uniquement."
+  },
+  "legal": {
+    "privacyTitle": "Politique de Confidentialité",
+    "privacyBody": "Nous recueillons les informations que vous fournissez lorsque vous vous renseignez sur nos services ou contactez notre équipe, ainsi que des données techniques limitées nécessaires au fonctionnement de ce site. Nous utilisons ces informations pour répondre aux demandes et évaluer d'éventuelles relations commerciales. Nous ne vendons pas d'informations personnelles à des tiers. Vous pouvez demander l'accès, la correction ou la suppression de vos informations personnelles à tout moment en contactant notre équipe.",
+    "termsTitle": "Conditions d'Utilisation",
+    "termsBody": "En utilisant ce site web, vous acceptez de fournir des informations exactes dans toute demande que vous soumettez. La disponibilité des produits, les spécifications et les conditions de livraison sont soumises à une évaluation individuelle, à l'approbation réglementaire applicable et à un accord contractuel formel ; rien sur ce site ne constitue une offre ou une garantie d'approvisionnement. Tout litige découlant de l'utilisation de ce site ou de nos services sera d'abord traité par le biais de notre processus interne de réclamation."
+  }
+}

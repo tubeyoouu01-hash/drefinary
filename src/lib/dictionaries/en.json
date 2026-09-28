@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "tagline": "Refining Energy for a Growing Continent",
+    "subTagline": "Crude Processing, Distribution & Exploration Support"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "sustainability": "Sustainability",
+    "contact": "Contact Us"
+  },
+  "footer": {
+    "description": "{{siteName}} processes crude oil into refined fuels and petrochemical products, serving industrial and commercial clients across West Africa and beyond.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "getInTouch": "Get in Touch",
+    "follow": "Follow Us",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "disclaimer": "Facility capacities, certifications, and operational figures referenced on this site are illustrative pending independent verification. Prospective partners should request current documentation directly."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "viewAll": "View All Services",
+    "getStarted": "Get Started"
+  },
+  "home": {
+    "heroEyebrow": "Est. 2011 — Okigwe, Imo State, Nigeria",
+    "heroTitle": "Turning crude into the fuel that keeps industry moving.",
+    "heroSubtitle": "{{siteName}} operates a modern processing facility dedicated to refining crude oil into premium fuels and petrochemical products, backed by rigorous quality control and a firm commitment to safe, responsible operations.",
+    "heroCtaSecondary": "Explore Our Services",
+    "stats": [
+      { "value": "13+", "label": "Years in Operation" },
+      { "value": "3", "label": "Core Service Lines" },
+      { "value": "24/7", "label": "Facility Monitoring" },
+      { "value": "ISO", "label": "Aligned Quality Systems" }
+    ],
+    "introTitle": "An independent refinery built on process discipline",
+    "introBody1": "{{siteName}} was established to serve a simple purpose: convert crude oil into the fuels and petrochemical feedstocks that regional industry depends on, reliably and to consistent specification.",
+    "introBody2": "Our facility combines modern distillation and processing units with an experienced technical team, giving us the flexibility to meet the evolving needs of both local and international offtake partners.",
+    "servicesTitle": "What we do",
+    "servicesSubtitle": "Three service lines, each built around a distinct stage of the petroleum value chain.",
+    "pillarsTitle": "How we operate",
+    "pillarsSubtitle": "Safety, environmental responsibility, and quality assurance are treated as operating requirements, not afterthoughts.",
+    "testimonials": [
+      { "text": "{{shortName}} has been consistent in a way that's hard to find in this market. Delivery schedules are honoured, product specification sheets match what actually arrives, and when something needs clarifying, someone picks up the phone.", "role": "Procurement Manager, Regional Distribution Firm" },
+      { "text": "We evaluated several regional suppliers before settling on {{shortName}}. What stood out was how much documentation they were willing to share upfront, and how closely their lab results tracked with our own independent testing.", "role": "Supply Chain Director, Industrial Manufacturer" },
+      { "text": "Working with {{shortName}} on logistics coordination has been straightforward. They plan around our delivery windows instead of expecting us to plan around theirs, which sounds small until you've dealt with suppliers who don't.", "role": "Operations Lead, Fuel Retail Network" }
+    ],
+    "prevTestimonial": "Previous testimonial",
+    "nextTestimonial": "Next testimonial",
+    "ctaTitle": "Interested in working with us?",
+    "ctaBody": "Tell us about your offtake, distribution, or exploration-support needs and our team will follow up.",
+    "ctaButton": "Get in Touch"
+  },
+  "about": {
+    "heroTitle": "About {{siteName}}",
+    "heroSubtitle": "An independent refinery built around process discipline, safety, and consistent product quality.",
+    "storyTitle": "Our Story",
+    "storyBody1": "{{siteName}} was founded to address a persistent gap in regional fuel supply: too many buyers were relying on intermediaries several layers removed from actual production, with little visibility into how their fuel was sourced or tested.",
+    "storyBody2": "We built our operation around the opposite approach — direct processing, transparent documentation, and a technical team that can answer detailed questions about our own product, because they're the ones running the units that make it.",
+    "storyBody3": "That approach has shaped how we've grown. Every new client relationship starts with documentation and, where appropriate, an invitation to verify our processes rather than simply take our word for them.",
+    "missionTitle": "Our Mission",
+    "missionBody": "To process crude oil into fuels our clients can rely on without having to double-check, and to be straightforward about our capabilities when we can't.",
+    "valuesTitle": "What guides our operations",
+    "values": [
+      { "title": "Process Discipline", "body": "Consistent procedures at every stage, from crude intake to final product dispatch, so quality doesn't depend on who's on shift." },
+      { "title": "Transparency", "body": "Clients can request lab results, specification sheets, and process documentation — we treat scrutiny as normal, not an inconvenience." },
+      { "title": "Safety First", "body": "No delivery deadline or commercial pressure overrides a safety procedure. That's a rule, not a guideline." },
+      { "title": "Long-Term Relationships", "body": "We'd rather grow slowly with clients who trust our documentation than grow quickly with ones who don't ask for it." }
+    ],
+    "leadershipTitle": "Our Team",
+    "leadershipBody": "Our technical and commercial teams are organised so that enquiries reach someone who actually understands the relevant process or logistics question, rather than a generalist reading from a script. Individual staff contact details are withheld on this site — use the Contact page to reach the right department.",
+    "licenseNote": "{{siteName}} operates under refining and environmental permits appropriate to its jurisdiction (Permit No. [Permit Number]). Prospective partners are welcome to request current permit documentation directly."
+  },
+  "services": {
+    "heroTitle": "Our Services",
+    "heroSubtitle": "Three service lines covering crude processing, distribution, and exploration support.",
+    "introTitle": "Built around the full value chain",
+    "introBody": "From the moment crude oil arrives at our facility to the moment refined product leaves for delivery, each stage is handled by a dedicated team with the specific expertise that stage requires.",
+    "serviceNames": {
+      "refining": "Oil Refining",
+      "distribution": "Distribution & Logistics",
+      "exploration": "Exploration Support"
+    },
+    "serviceDescriptions": {
+      "refining": "Crude oil processing through modern distillation and treatment units, producing refined fuels and petrochemical feedstocks to consistent specification.",
+      "distribution": "Coordinated delivery of refined products by road tanker and, where infrastructure allows, rail and pipeline, matched to client delivery schedules.",
+      "exploration": "Technical and logistical support services for upstream partners evaluating and developing regional hydrocarbon prospects."
+    },
+    "servicePoints": {
+      "refining": [
+        "Atmospheric and vacuum distillation processing",
+        "Treatment units for sulfur reduction and product finishing",
+        "In-house laboratory testing against product specification sheets",
+        "Batch documentation available on request"
+      ],
+      "distribution": [
+        "Road tanker delivery network across the region",
+        "Delivery scheduling coordinated around client operating hours",
+        "Product tracking from dispatch to delivery confirmation",
+        "Bulk and contract supply arrangements"
+      ],
+      "exploration": [
+        "Technical advisory support for exploration planning",
+        "Logistics coordination for exploration-site supply",
+        "Liaison support with regional regulatory processes",
+        "Available on a project or retainer basis"
+      ]
+    },
+    "ctaTitle": "Have a requirement in one of these areas?",
+    "ctaBody": "Tell us what you need and the relevant team will follow up with next steps."
+  },
+  "sustainability": {
+    "heroTitle": "Sustainability",
+    "heroSubtitle": "Safety, environmental responsibility, and quality assurance, treated as operating requirements.",
+    "introTitle": "Operating responsibly isn't optional",
+    "introBody": "A refinery that cuts corners on safety or environmental controls is a liability to everyone connected to it — its workers, its neighbours, and its clients. We structure our operations around that reality rather than around the minimum required to pass inspection.",
+    "pillarNames": {
+      "safety": "Health & Safety",
+      "environment": "Environment",
+      "quality": "Quality"
+    },
+    "pillarDescriptions": {
+      "safety": "Comprehensive HSE training, mandatory PPE compliance, and a zero-tolerance policy for unsafe shortcuts, regardless of production pressure.",
+      "environment": "Emission monitoring and control systems, responsible waste handling, and ongoing evaluation of lower-impact processing options.",
+      "quality": "In-house laboratory testing at every stage of production, with full batch traceability from crude intake through to final product dispatch."
+    },
+    "ctaTitle": "Want more detail on our operating standards?",
+    "ctaBody": "We're glad to share our current safety and environmental documentation with prospective partners."
+  },
+  "contact": {
+    "heroTitle": "Contact Us",
+    "heroSubtitle": "Questions about our services, capacity, or documentation? Reach our team below.",
+    "detailsTitle": "Contact Details",
+    "addressLabel": "Facility",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "hoursLabel": "Hours",
+    "hours": "Monday–Friday, 8:00am–5:00pm WAT",
+    "formTitle": "Send a Message",
+    "labels": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "company": "Company",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "disclaimer": "Submitting this form will open your email client with your message pre-filled, ready to send directly to our team.",
+    "mapNote": "Map placeholder — sample location only."
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "privacyBody": "We collect the information you provide when you enquire about our services or contact our team, together with limited technical data needed to operate this site. We use this information to respond to enquiries and evaluate potential business relationships. We do not sell personal information to third parties. You may request access to, correction of, or deletion of your personal information at any time by contacting our team.",
+    "termsTitle": "Terms of Service",
+    "termsBody": "By using this website you agree to provide accurate information in any enquiry you submit. Product availability, specifications, and delivery terms are subject to individual assessment, applicable regulatory approval, and formal contractual agreement; nothing on this site constitutes an offer or guarantee of supply. Any dispute arising from use of this site or our services will first be addressed through our internal complaints process."
+  }
+}

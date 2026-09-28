@@ -1,0 +1,60 @@
+import Image from "next/image";
+import { notFound } from "next/navigation";
+import { getDictionary } from "@/lib/get-dictionary";
+import { isLocale, type Locale } from "@/lib/locales";
+import { seedImage } from "@/lib/services";
+import { PageHero } from "@/components/PageHero";
+
+export default async function AboutPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  if (!isLocale(locale)) notFound();
+  const a = (await getDictionary(locale as Locale)).about;
+
+  return (
+    <>
+      <PageHero title={a.heroTitle} subtitle={a.heroSubtitle} />
+
+      <section className="mx-auto max-w-7xl px-6 py-20 grid grid-cols-1 lg:grid-cols-2 gap-14 items-start">
+        <div className="relative h-80 lg:h-full min-h-[24rem] rounded-sm overflow-hidden border border-line order-2 lg:order-1">
+          <Image src={seedImage("refinery-control-room-engineers", 1000, 1000)} alt="" fill className="object-cover" sizes="(min-width: 1024px) 45vw, 100vw" />
+        </div>
+        <div className="order-1 lg:order-2">
+          <span className="red-bar mb-5" />
+          <h2 className="font-display text-4xl font-bold uppercase text-blue-deep mb-6">{a.storyTitle}</h2>
+          <p className="text-slate leading-relaxed mb-4">{a.storyBody1}</p>
+          <p className="text-slate leading-relaxed mb-4">{a.storyBody2}</p>
+          <p className="text-slate leading-relaxed">{a.storyBody3}</p>
+        </div>
+      </section>
+
+      <section className="bg-blue-deep text-white py-20">
+        <div className="mx-auto max-w-3xl px-6 text-center">
+          <h2 className="font-display text-4xl font-bold uppercase mb-4">{a.missionTitle}</h2>
+          <span className="red-bar mx-auto mb-6" />
+          <p className="text-white/85 text-xl leading-relaxed">{a.missionBody}</p>
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-7xl px-6 py-20">
+        <h2 className="font-display text-4xl font-bold uppercase text-blue-deep mb-12 text-center">{a.valuesTitle}</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          {a.values.map((v, i) => (
+            <div key={v.title} className="pt-6 border-t-2 border-blue">
+              <span className="font-display text-4xl font-bold text-blue/25">{String(i + 1).padStart(2, "0")}</span>
+              <h3 className="font-display text-2xl font-bold uppercase text-blue-deep mt-2 mb-2">{v.title}</h3>
+              <p className="text-sm text-slate leading-relaxed">{v.body}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className="bg-blue-tint border-y border-line py-20">
+        <div className="mx-auto max-w-3xl px-6 text-center">
+          <h2 className="font-display text-4xl font-bold uppercase text-blue-deep mb-5">{a.leadershipTitle}</h2>
+          <p className="text-slate leading-relaxed">{a.leadershipBody}</p>
+          <p className="mt-8 text-xs text-slate-light italic">{a.licenseNote}</p>
+        </div>
+      </section>
+    </>
+  );
+}

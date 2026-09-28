@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "tagline": "Tinh Luyện Năng Lượng Cho Một Châu Lục Đang Phát Triển",
+    "subTagline": "Chế Biến Dầu Thô, Phân Phối & Hỗ Trợ Thăm Dò"
+  },
+  "nav": {
+    "home": "Trang Chủ",
+    "about": "Về Chúng Tôi",
+    "services": "Dịch Vụ",
+    "sustainability": "Phát Triển Bền Vững",
+    "contact": "Liên Hệ"
+  },
+  "footer": {
+    "description": "{{siteName}} chế biến dầu thô thành nhiên liệu tinh chế và các sản phẩm hóa dầu, phục vụ khách hàng công nghiệp và thương mại tại Tây Phi và xa hơn nữa.",
+    "quickLinks": "Liên Kết Nhanh",
+    "services": "Dịch Vụ",
+    "getInTouch": "Liên Hệ Với Chúng Tôi",
+    "follow": "Theo Dõi Chúng Tôi",
+    "rights": "Đã đăng ký bản quyền.",
+    "privacy": "Chính Sách Bảo Mật",
+    "terms": "Điều Khoản Dịch Vụ",
+    "disclaimer": "Công suất nhà máy, chứng nhận và số liệu vận hành được nêu trên trang web này chỉ mang tính tham khảo cho đến khi được xác minh độc lập. Các đối tác tiềm năng nên yêu cầu trực tiếp tài liệu hiện hành."
+  },
+  "common": {
+    "learnMore": "Tìm Hiểu Thêm",
+    "contactUs": "Liên Hệ Với Chúng Tôi",
+    "readMore": "Đọc Thêm",
+    "viewAll": "Xem Tất Cả Dịch Vụ",
+    "getStarted": "Bắt Đầu"
+  },
+  "home": {
+    "heroEyebrow": "Thành lập năm 2011 — Okigwe, Bang Imo, Nigeria",
+    "heroTitle": "Biến dầu thô thành nhiên liệu giúp ngành công nghiệp luôn vận hành.",
+    "heroSubtitle": "{{siteName}} vận hành một cơ sở chế biến hiện đại chuyên tinh luyện dầu thô thành nhiên liệu cao cấp và các sản phẩm hóa dầu, được hậu thuẫn bởi kiểm soát chất lượng nghiêm ngặt và cam kết vững chắc về hoạt động an toàn, có trách nhiệm.",
+    "heroCtaSecondary": "Khám Phá Dịch Vụ",
+    "stats": [
+      { "value": "13+", "label": "Năm Hoạt Động" },
+      { "value": "3", "label": "Mảng Dịch Vụ Cốt Lõi" },
+      { "value": "24/7", "label": "Giám Sát Nhà Máy" },
+      { "value": "ISO", "label": "Hệ Thống Chất Lượng Tương Thích" }
+    ],
+    "introTitle": "Một nhà máy lọc dầu độc lập xây dựng trên kỷ luật quy trình",
+    "introBody1": "{{siteName}} được thành lập với một mục đích đơn giản: chuyển đổi dầu thô thành nhiên liệu và nguyên liệu hóa dầu mà ngành công nghiệp khu vực phụ thuộc vào, một cách đáng tin cậy và theo tiêu chuẩn nhất quán.",
+    "introBody2": "Cơ sở của chúng tôi kết hợp các đơn vị chưng cất và chế biến hiện đại với đội ngũ kỹ thuật giàu kinh nghiệm, mang lại cho chúng tôi sự linh hoạt để đáp ứng nhu cầu thay đổi của các đối tác mua hàng trong nước và quốc tế.",
+    "servicesTitle": "Chúng tôi làm gì",
+    "servicesSubtitle": "Ba mảng dịch vụ, mỗi mảng được xây dựng xoay quanh một giai đoạn riêng biệt của chuỗi giá trị dầu khí.",
+    "pillarsTitle": "Cách chúng tôi vận hành",
+    "pillarsSubtitle": "An toàn, trách nhiệm môi trường và đảm bảo chất lượng được xem là yêu cầu vận hành, chứ không phải điều bổ sung sau cùng.",
+    "testimonials": [
+      { "text": "{{shortName}} nhất quán theo cách khó tìm thấy trên thị trường này. Lịch giao hàng được tôn trọng, bảng thông số kỹ thuật sản phẩm khớp với hàng thực tế nhận được, và khi cần làm rõ điều gì đó, luôn có người nghe điện thoại.", "role": "Giám Đốc Thu Mua, Công Ty Phân Phối Khu Vực" },
+      { "text": "Chúng tôi đã đánh giá nhiều nhà cung cấp khu vực trước khi chọn {{shortName}}. Điều nổi bật là lượng tài liệu họ sẵn sàng chia sẻ ngay từ đầu, và mức độ khớp giữa kết quả phòng thí nghiệm của họ với các thử nghiệm độc lập của chúng tôi.", "role": "Giám Đốc Chuỗi Cung Ứng, Nhà Sản Xuất Công Nghiệp" },
+      { "text": "Làm việc với {{shortName}} về điều phối hậu cần rất suôn sẻ. Họ lên kế hoạch xoay quanh khung giờ giao hàng của chúng tôi thay vì mong chúng tôi lên kế hoạch xoay quanh họ, điều nghe có vẻ nhỏ cho đến khi bạn từng làm việc với những nhà cung cấp không làm như vậy.", "role": "Trưởng Bộ Phận Vận Hành, Mạng Lưới Bán Lẻ Nhiên Liệu" }
+    ],
+    "prevTestimonial": "Nhận xét trước",
+    "nextTestimonial": "Nhận xét tiếp theo",
+    "ctaTitle": "Quan tâm đến việc hợp tác cùng chúng tôi?",
+    "ctaBody": "Hãy cho chúng tôi biết nhu cầu của bạn về thu mua, phân phối hoặc hỗ trợ thăm dò, đội ngũ của chúng tôi sẽ liên hệ lại.",
+    "ctaButton": "Liên Hệ Với Chúng Tôi"
+  },
+  "about": {
+    "heroTitle": "Về {{siteName}}",
+    "heroSubtitle": "Một nhà máy lọc dầu độc lập xây dựng trên kỷ luật quy trình, an toàn và chất lượng sản phẩm nhất quán.",
+    "storyTitle": "Câu Chuyện Của Chúng Tôi",
+    "storyBody1": "{{siteName}} được thành lập để giải quyết một khoảng trống kéo dài trong nguồn cung nhiên liệu khu vực: quá nhiều người mua phụ thuộc vào các trung gian cách xa nhiều tầng so với sản xuất thực tế, với rất ít khả năng theo dõi nhiên liệu của họ được cung cấp hay kiểm tra như thế nào.",
+    "storyBody2": "Chúng tôi xây dựng hoạt động theo hướng ngược lại — chế biến trực tiếp, tài liệu minh bạch, và một đội ngũ kỹ thuật có thể trả lời các câu hỏi chi tiết về chính sản phẩm của mình, vì chính họ là người vận hành các đơn vị tạo ra nó.",
+    "storyBody3": "Cách tiếp cận đó đã định hình sự phát triển của chúng tôi. Mỗi mối quan hệ khách hàng mới đều bắt đầu bằng tài liệu và, khi phù hợp, một lời mời kiểm chứng quy trình của chúng tôi thay vì chỉ tin vào lời nói.",
+    "missionTitle": "Sứ Mệnh Của Chúng Tôi",
+    "missionBody": "Chế biến dầu thô thành nhiên liệu mà khách hàng có thể tin cậy mà không cần kiểm tra lại, và thẳng thắn về năng lực của chúng tôi khi chưa đáp ứng được.",
+    "valuesTitle": "Những giá trị định hướng hoạt động của chúng tôi",
+    "values": [
+      { "title": "Kỷ Luật Quy Trình", "body": "Quy trình nhất quán ở mọi giai đoạn, từ tiếp nhận dầu thô đến xuất sản phẩm cuối cùng, để chất lượng không phụ thuộc vào ai đang trực ca." },
+      { "title": "Minh Bạch", "body": "Khách hàng có thể yêu cầu kết quả phòng thí nghiệm, bảng thông số kỹ thuật và tài liệu quy trình — chúng tôi xem việc xem xét kỹ lưỡng là bình thường, không phải phiền toái." },
+      { "title": "An Toàn Là Trên Hết", "body": "Không thời hạn giao hàng hay áp lực thương mại nào được phép vượt lên trên quy trình an toàn. Đó là một quy tắc, không phải khuyến nghị." },
+      { "title": "Quan Hệ Lâu Dài", "body": "Chúng tôi thà phát triển chậm cùng những khách hàng tin tưởng tài liệu của mình còn hơn phát triển nhanh với những người không hề yêu cầu." }
+    ],
+    "leadershipTitle": "Đội Ngũ Của Chúng Tôi",
+    "leadershipBody": "Các đội ngũ kỹ thuật và thương mại của chúng tôi được tổ chức để mỗi yêu cầu đều đến được người thực sự hiểu vấn đề quy trình hoặc hậu cần liên quan, chứ không phải một người đọc theo kịch bản. Thông tin liên hệ trực tiếp của từng nhân viên không được hiển thị trên trang web này — vui lòng dùng trang Liên Hệ để đến đúng bộ phận.",
+    "licenseNote": "{{siteName}} hoạt động theo các giấy phép lọc dầu và môi trường phù hợp với phạm vi pháp lý của mình (Giấy phép số [Số Giấy Phép]). Các đối tác tiềm năng có thể yêu cầu trực tiếp tài liệu giấy phép hiện hành."
+  },
+  "services": {
+    "heroTitle": "Dịch Vụ",
+    "heroSubtitle": "Ba mảng dịch vụ bao gồm chế biến dầu thô, phân phối và hỗ trợ thăm dò.",
+    "introTitle": "Xây dựng xoay quanh toàn bộ chuỗi giá trị",
+    "introBody": "Từ lúc dầu thô đến cơ sở của chúng tôi cho đến lúc sản phẩm tinh chế rời đi để giao hàng, mỗi giai đoạn đều do một đội ngũ chuyên trách có chuyên môn phù hợp đảm nhận.",
+    "serviceNames": {
+      "refining": "Lọc Dầu",
+      "distribution": "Phân Phối & Hậu Cần",
+      "exploration": "Hỗ Trợ Thăm Dò"
+    },
+    "serviceDescriptions": {
+      "refining": "Chế biến dầu thô qua các đơn vị chưng cất và xử lý hiện đại, sản xuất nhiên liệu tinh chế và nguyên liệu hóa dầu theo tiêu chuẩn nhất quán.",
+      "distribution": "Giao hàng phối hợp các sản phẩm tinh chế bằng xe bồn đường bộ và, khi hạ tầng cho phép, bằng đường sắt và đường ống, phù hợp với lịch giao hàng của khách hàng.",
+      "exploration": "Dịch vụ hỗ trợ kỹ thuật và hậu cần cho các đối tác thượng nguồn đang đánh giá và phát triển các triển vọng hydrocarbon trong khu vực."
+    },
+    "servicePoints": {
+      "refining": [
+        "Chế biến bằng chưng cất khí quyển và chưng cất chân không",
+        "Các đơn vị xử lý để giảm lưu huỳnh và hoàn thiện sản phẩm",
+        "Kiểm nghiệm nội bộ tại phòng thí nghiệm theo bảng thông số kỹ thuật sản phẩm",
+        "Tài liệu theo lô có sẵn khi được yêu cầu"
+      ],
+      "distribution": [
+        "Mạng lưới giao hàng bằng xe bồn trong toàn khu vực",
+        "Lên lịch giao hàng phối hợp theo giờ hoạt động của khách hàng",
+        "Theo dõi sản phẩm từ lúc xuất đi đến khi xác nhận giao hàng",
+        "Thỏa thuận cung cấp số lượng lớn và theo hợp đồng"
+      ],
+      "exploration": [
+        "Hỗ trợ tư vấn kỹ thuật cho việc lập kế hoạch thăm dò",
+        "Điều phối hậu cần cho việc cung ứng các địa điểm thăm dò",
+        "Hỗ trợ liên lạc với các quy trình quản lý trong khu vực",
+        "Có thể thực hiện theo dự án hoặc theo hợp đồng thường niên"
+      ]
+    },
+    "ctaTitle": "Bạn có nhu cầu trong một trong các lĩnh vực này?",
+    "ctaBody": "Hãy cho chúng tôi biết bạn cần gì, đội ngũ phù hợp sẽ liên hệ lại với các bước tiếp theo."
+  },
+  "sustainability": {
+    "heroTitle": "Phát Triển Bền Vững",
+    "heroSubtitle": "An toàn, trách nhiệm môi trường và đảm bảo chất lượng, được xem là các yêu cầu vận hành.",
+    "introTitle": "Vận hành có trách nhiệm không phải là lựa chọn",
+    "introBody": "Một nhà máy lọc dầu cắt giảm chi phí về an toàn hay kiểm soát môi trường là rủi ro đối với tất cả những ai liên quan — công nhân, người dân xung quanh và khách hàng. Chúng tôi xây dựng hoạt động dựa trên thực tế đó, chứ không phải dựa trên mức tối thiểu để vượt qua kiểm tra.",
+    "pillarNames": {
+      "safety": "Sức Khỏe & An Toàn",
+      "environment": "Môi Trường",
+      "quality": "Chất Lượng"
+    },
+    "pillarDescriptions": {
+      "safety": "Đào tạo HSE toàn diện, tuân thủ bắt buộc về trang bị bảo hộ cá nhân, và chính sách không khoan nhượng với các lối tắt không an toàn, bất kể áp lực sản xuất.",
+      "environment": "Hệ thống giám sát và kiểm soát khí thải, xử lý chất thải có trách nhiệm, và liên tục đánh giá các phương án chế biến ít tác động hơn.",
+      "quality": "Kiểm nghiệm nội bộ tại phòng thí nghiệm ở mọi giai đoạn sản xuất, với khả năng truy xuất đầy đủ theo lô từ khi tiếp nhận dầu thô đến khi xuất sản phẩm cuối cùng."
+    },
+    "ctaTitle": "Muốn biết thêm chi tiết về tiêu chuẩn vận hành của chúng tôi?",
+    "ctaBody": "Chúng tôi sẵn lòng chia sẻ tài liệu an toàn và môi trường hiện hành với các đối tác tiềm năng."
+  },
+  "contact": {
+    "heroTitle": "Liên Hệ Với Chúng Tôi",
+    "heroSubtitle": "Có câu hỏi về dịch vụ, năng lực hay tài liệu của chúng tôi? Hãy liên hệ đội ngũ của chúng tôi bên dưới.",
+    "detailsTitle": "Thông Tin Liên Hệ",
+    "addressLabel": "Cơ Sở",
+    "emailLabel": "Email",
+    "phoneLabel": "Điện Thoại",
+    "hoursLabel": "Giờ Làm Việc",
+    "hours": "Thứ Hai–Thứ Sáu, 8:00–17:00 (Giờ WAT)",
+    "formTitle": "Gửi Tin Nhắn",
+    "labels": {
+      "fullName": "Họ Và Tên",
+      "email": "Địa Chỉ Email",
+      "company": "Công Ty",
+      "subject": "Chủ Đề",
+      "message": "Nội Dung Tin Nhắn",
+      "submit": "Gửi Tin Nhắn"
+    },
+    "disclaimer": "Khi gửi biểu mẫu này, ứng dụng email của bạn sẽ mở ra với nội dung tin nhắn đã được điền sẵn, sẵn sàng gửi trực tiếp đến đội ngũ của chúng tôi.",
+    "mapNote": "Vị trí bản đồ giữ chỗ — chỉ là địa điểm ví dụ."
+  },
+  "legal": {
+    "privacyTitle": "Chính Sách Bảo Mật",
+    "privacyBody": "Chúng tôi thu thập thông tin bạn cung cấp khi tìm hiểu về dịch vụ hoặc liên hệ với đội ngũ của chúng tôi, cùng với một số dữ liệu kỹ thuật hạn chế cần thiết để vận hành trang web này. Chúng tôi sử dụng thông tin này để phản hồi các thắc mắc và đánh giá các mối quan hệ kinh doanh tiềm năng. Chúng tôi không bán thông tin cá nhân cho bên thứ ba. Bạn có thể yêu cầu truy cập, chỉnh sửa, hoặc xóa thông tin cá nhân của mình bất cứ lúc nào bằng cách liên hệ với đội ngũ của chúng tôi.",
+    "termsTitle": "Điều Khoản Dịch Vụ",
+    "termsBody": "Khi sử dụng trang web này, bạn đồng ý cung cấp thông tin chính xác trong bất kỳ yêu cầu nào bạn gửi. Tình trạng sẵn có của sản phẩm, thông số kỹ thuật và điều khoản giao hàng phải qua đánh giá cá nhân, sự phê duyệt của cơ quan quản lý theo quy định và thỏa thuận hợp đồng chính thức; không có nội dung nào trên trang web này cấu thành lời chào hàng hay bảo đảm cung cấp. Mọi tranh chấp phát sinh từ việc sử dụng trang web này hoặc dịch vụ của chúng tôi sẽ được xử lý trước tiên thông qua quy trình khiếu nại nội bộ của chúng tôi."
+  }
+}

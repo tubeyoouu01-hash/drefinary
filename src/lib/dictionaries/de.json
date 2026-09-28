@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "tagline": "Energie veredeln für einen wachsenden Kontinent",
+    "subTagline": "Rohölverarbeitung, Vertrieb & Explorationsunterstützung"
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "services": "Unsere Leistungen",
+    "sustainability": "Nachhaltigkeit",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "description": "{{siteName}} verarbeitet Rohöl zu raffinierten Kraftstoffen und petrochemischen Produkten und beliefert Industrie- und Gewerbekunden in Westafrika und darüber hinaus.",
+    "quickLinks": "Schnellzugriff",
+    "services": "Unsere Leistungen",
+    "getInTouch": "Kontakt Aufnehmen",
+    "follow": "Folgen Sie Uns",
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "disclaimer": "Auf dieser Website genannte Anlagenkapazitäten, Zertifizierungen und Betriebszahlen sind bis zu einer unabhängigen Überprüfung als Richtwerte zu verstehen. Interessierte Partner sollten aktuelle Unterlagen direkt anfordern."
+  },
+  "common": {
+    "learnMore": "Mehr Erfahren",
+    "contactUs": "Kontaktieren Sie Uns",
+    "readMore": "Weiterlesen",
+    "viewAll": "Alle Leistungen Ansehen",
+    "getStarted": "Loslegen"
+  },
+  "home": {
+    "heroEyebrow": "Gegründet 2011 — Okigwe, Bundesstaat Imo, Nigeria",
+    "heroTitle": "Rohöl in den Kraftstoff verwandeln, der die Industrie am Laufen hält.",
+    "heroSubtitle": "{{siteName}} betreibt eine moderne Verarbeitungsanlage, die Rohöl zu hochwertigen Kraftstoffen und petrochemischen Produkten veredelt — gestützt auf strenge Qualitätskontrolle und ein klares Bekenntnis zu sicheren, verantwortungsvollen Abläufen.",
+    "heroCtaSecondary": "Unsere Leistungen Entdecken",
+    "stats": [
+      { "value": "13+", "label": "Jahre im Betrieb" },
+      { "value": "3", "label": "Kernleistungsbereiche" },
+      { "value": "24/7", "label": "Anlagenüberwachung" },
+      { "value": "ISO", "label": "Ausgerichtete Qualitätssysteme" }
+    ],
+    "introTitle": "Eine unabhängige Raffinerie, aufgebaut auf Prozessdisziplin",
+    "introBody1": "{{siteName}} wurde mit einem einfachen Ziel gegründet: Rohöl zuverlässig und in gleichbleibender Spezifikation in die Kraftstoffe und petrochemischen Vorprodukte umzuwandeln, auf die die regionale Industrie angewiesen ist.",
+    "introBody2": "Unsere Anlage verbindet moderne Destillations- und Verarbeitungseinheiten mit einem erfahrenen technischen Team und gibt uns die Flexibilität, den sich wandelnden Anforderungen lokaler wie internationaler Abnehmer gerecht zu werden.",
+    "servicesTitle": "Was wir tun",
+    "servicesSubtitle": "Drei Leistungsbereiche, jeder auf eine eigene Stufe der Erdöl-Wertschöpfungskette ausgerichtet.",
+    "pillarsTitle": "Wie wir arbeiten",
+    "pillarsSubtitle": "Sicherheit, Umweltverantwortung und Qualitätssicherung sind bei uns Betriebsanforderungen, keine Nebensache.",
+    "testimonials": [
+      { "text": "{{shortName}} ist auf eine Weise beständig, die man in diesem Markt selten findet. Liefertermine werden eingehalten, die Spezifikationsblätter stimmen mit dem überein, was tatsächlich ankommt, und wenn etwas zu klären ist, geht jemand ans Telefon.", "role": "Einkaufsleiter, Regionales Vertriebsunternehmen" },
+      { "text": "Wir haben mehrere regionale Lieferanten geprüft, bevor wir uns für {{shortName}} entschieden haben. Aufgefallen ist, wie viele Unterlagen sie von sich aus vorab teilen wollten und wie nah ihre Laborergebnisse an unseren eigenen unabhängigen Tests lagen.", "role": "Leiterin Lieferkette, Industrieller Hersteller" },
+      { "text": "Die Zusammenarbeit mit {{shortName}} bei der Logistikkoordination ist unkompliziert. Sie planen um unsere Lieferfenster herum, statt zu erwarten, dass wir uns nach ihren richten — das klingt nach wenig, bis man mit Lieferanten zu tun hatte, die das nicht tun.", "role": "Betriebsleiter, Tankstellennetz" }
+    ],
+    "prevTestimonial": "Vorherige Referenz",
+    "nextTestimonial": "Nächste Referenz",
+    "ctaTitle": "Interesse an einer Zusammenarbeit?",
+    "ctaBody": "Schildern Sie uns Ihren Bedarf an Abnahme, Vertrieb oder Explorationsunterstützung, und unser Team meldet sich bei Ihnen.",
+    "ctaButton": "Kontakt Aufnehmen"
+  },
+  "about": {
+    "heroTitle": "Über {{siteName}}",
+    "heroSubtitle": "Eine unabhängige Raffinerie, aufgebaut auf Prozessdisziplin, Sicherheit und gleichbleibender Produktqualität.",
+    "storyTitle": "Unsere Geschichte",
+    "storyBody1": "{{siteName}} wurde gegründet, um eine anhaltende Lücke in der regionalen Kraftstoffversorgung zu schließen: Zu viele Abnehmer verließen sich auf Zwischenhändler, die mehrere Stufen von der eigentlichen Produktion entfernt waren, mit kaum Einblick in Herkunft und Prüfung ihres Kraftstoffs.",
+    "storyBody2": "Wir haben unseren Betrieb nach dem gegenteiligen Ansatz aufgebaut — direkte Verarbeitung, transparente Dokumentation und ein technisches Team, das detaillierte Fragen zu unserem eigenen Produkt beantworten kann, weil es genau die Anlagen betreibt, die es herstellen.",
+    "storyBody3": "Dieser Ansatz hat unser Wachstum geprägt. Jede neue Kundenbeziehung beginnt mit Dokumentation und, wo angemessen, der Einladung, unsere Prozesse zu überprüfen, statt uns einfach beim Wort zu nehmen.",
+    "missionTitle": "Unsere Mission",
+    "missionBody": "Rohöl zu Kraftstoffen zu verarbeiten, auf die sich unsere Kunden verlassen können, ohne nachprüfen zu müssen — und offen zu sein, wenn wir etwas nicht leisten können.",
+    "valuesTitle": "Was unsere Arbeit leitet",
+    "values": [
+      { "title": "Prozessdisziplin", "body": "Einheitliche Abläufe in jeder Phase, vom Rohöleingang bis zum Versand des Endprodukts, damit die Qualität nicht davon abhängt, wer Schicht hat." },
+      { "title": "Transparenz", "body": "Kunden können Laborergebnisse, Spezifikationsblätter und Prozessdokumentation anfordern — wir betrachten Prüfung als normal, nicht als Störung." },
+      { "title": "Sicherheit zuerst", "body": "Kein Liefertermin und kein wirtschaftlicher Druck hat Vorrang vor einer Sicherheitsvorschrift. Das ist eine Regel, keine Empfehlung." },
+      { "title": "Langfristige Beziehungen", "body": "Wir wachsen lieber langsam mit Kunden, die unserer Dokumentation vertrauen, als schnell mit solchen, die nicht danach fragen." }
+    ],
+    "leadershipTitle": "Unser Team",
+    "leadershipBody": "Unsere technischen und kaufmännischen Teams sind so organisiert, dass Anfragen bei jemandem landen, der die jeweilige Prozess- oder Logistikfrage wirklich versteht, und nicht bei einem Generalisten, der ein Skript abliest. Kontaktdaten einzelner Mitarbeiter werden auf dieser Website nicht angezeigt — nutzen Sie die Kontaktseite, um die richtige Abteilung zu erreichen.",
+    "licenseNote": "{{siteName}} arbeitet unter den für seine Rechtsordnung geeigneten Raffinerie- und Umweltgenehmigungen (Genehmigungsnr. [Genehmigungsnummer]). Interessierte Partner können aktuelle Genehmigungsunterlagen direkt anfordern."
+  },
+  "services": {
+    "heroTitle": "Unsere Leistungen",
+    "heroSubtitle": "Drei Leistungsbereiche: Rohölverarbeitung, Vertrieb und Explorationsunterstützung.",
+    "introTitle": "Auf die gesamte Wertschöpfungskette ausgelegt",
+    "introBody": "Vom Moment, in dem das Rohöl in unserer Anlage eintrifft, bis zu dem Moment, in dem das raffinierte Produkt zur Auslieferung aufbricht, wird jede Stufe von einem eigenen Team mit dem dafür erforderlichen Fachwissen betreut.",
+    "serviceNames": {
+      "refining": "Erdölraffination",
+      "distribution": "Vertrieb & Logistik",
+      "exploration": "Explorationsunterstützung"
+    },
+    "serviceDescriptions": {
+      "refining": "Rohölverarbeitung in modernen Destillations- und Behandlungsanlagen zur Herstellung raffinierter Kraftstoffe und petrochemischer Vorprodukte in gleichbleibender Spezifikation.",
+      "distribution": "Koordinierte Auslieferung raffinierter Produkte per Tankwagen und, sofern die Infrastruktur es erlaubt, per Bahn und Pipeline, abgestimmt auf die Liefertermine der Kunden.",
+      "exploration": "Technische und logistische Unterstützung für Upstream-Partner, die regionale Kohlenwasserstoff-Vorkommen prüfen und erschließen."
+    },
+    "servicePoints": {
+      "refining": [
+        "Atmosphärische und Vakuum-Destillation",
+        "Behandlungsanlagen zur Schwefelreduzierung und Produktveredelung",
+        "Interne Labortests anhand der Produktspezifikationsblätter",
+        "Chargendokumentation auf Anfrage"
+      ],
+      "distribution": [
+        "Tankwagen-Liefernetz in der gesamten Region",
+        "Lieferplanung abgestimmt auf die Betriebszeiten des Kunden",
+        "Produktverfolgung vom Versand bis zur Lieferbestätigung",
+        "Massen- und Vertragslieferungen"
+      ],
+      "exploration": [
+        "Technische Beratung zur Explorationsplanung",
+        "Logistikkoordination für die Versorgung von Explorationsstandorten",
+        "Unterstützung bei regionalen Genehmigungsverfahren",
+        "Projektbasiert oder auf Retainer-Basis verfügbar"
+      ]
+    },
+    "ctaTitle": "Bedarf in einem dieser Bereiche?",
+    "ctaBody": "Sagen Sie uns, was Sie benötigen, und das zuständige Team meldet sich mit den nächsten Schritten."
+  },
+  "sustainability": {
+    "heroTitle": "Nachhaltigkeit",
+    "heroSubtitle": "Sicherheit, Umweltverantwortung und Qualitätssicherung als Betriebsanforderungen.",
+    "introTitle": "Verantwortungsvoller Betrieb ist keine Option",
+    "introBody": "Eine Raffinerie, die bei Sicherheit oder Umweltkontrollen spart, ist ein Risiko für alle, die mit ihr verbunden sind — Beschäftigte, Nachbarn und Kunden. Wir richten unseren Betrieb an dieser Realität aus und nicht am Minimum, das zum Bestehen einer Inspektion nötig ist.",
+    "pillarNames": {
+      "safety": "Gesundheit & Sicherheit",
+      "environment": "Umwelt",
+      "quality": "Qualität"
+    },
+    "pillarDescriptions": {
+      "safety": "Umfassende HSE-Schulungen, verbindliche PSA-Einhaltung und eine Null-Toleranz-Politik gegenüber unsicheren Abkürzungen, unabhängig vom Produktionsdruck.",
+      "environment": "Emissionsüberwachung und -kontrolle, verantwortungsvolle Abfallbehandlung und laufende Prüfung emissionsärmerer Verarbeitungsoptionen.",
+      "quality": "Interne Labortests in jeder Produktionsphase, mit lückenloser Chargenrückverfolgung vom Rohöleingang bis zum Versand des Endprodukts."
+    },
+    "ctaTitle": "Mehr Details zu unseren Betriebsstandards?",
+    "ctaBody": "Wir teilen gern unsere aktuellen Sicherheits- und Umweltunterlagen mit interessierten Partnern."
+  },
+  "contact": {
+    "heroTitle": "Kontaktieren Sie Uns",
+    "heroSubtitle": "Fragen zu unseren Leistungen, Kapazitäten oder Unterlagen? Erreichen Sie unser Team unten.",
+    "detailsTitle": "Kontaktdaten",
+    "addressLabel": "Anlage",
+    "emailLabel": "E-Mail",
+    "phoneLabel": "Telefon",
+    "hoursLabel": "Öffnungszeiten",
+    "hours": "Montag–Freitag, 8:00–17:00 Uhr (WAT)",
+    "formTitle": "Nachricht Senden",
+    "labels": {
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "company": "Unternehmen",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Nachricht Senden"
+    },
+    "disclaimer": "Beim Absenden dieses Formulars öffnet sich Ihr E-Mail-Programm mit Ihrer vorausgefüllten Nachricht, bereit zum direkten Versand an unser Team.",
+    "mapNote": "Kartenplatzhalter — nur Beispielstandort."
+  },
+  "legal": {
+    "privacyTitle": "Datenschutzerklärung",
+    "privacyBody": "Wir erheben die Informationen, die Sie bei einer Anfrage zu unseren Leistungen oder bei der Kontaktaufnahme mit unserem Team angeben, zusammen mit begrenzten technischen Daten, die für den Betrieb dieser Website erforderlich sind. Wir verwenden diese Informationen, um Anfragen zu beantworten und mögliche Geschäftsbeziehungen zu prüfen. Wir verkaufen keine personenbezogenen Daten an Dritte. Sie können jederzeit Zugang zu, Berichtigung oder Löschung Ihrer personenbezogenen Daten verlangen, indem Sie unser Team kontaktieren.",
+    "termsTitle": "Nutzungsbedingungen",
+    "termsBody": "Durch die Nutzung dieser Website erklären Sie sich damit einverstanden, in jeder Anfrage korrekte Angaben zu machen. Produktverfügbarkeit, Spezifikationen und Lieferbedingungen unterliegen einer individuellen Prüfung, der jeweils erforderlichen behördlichen Genehmigung und einer förmlichen vertraglichen Vereinbarung; nichts auf dieser Website stellt ein Angebot oder eine Liefergarantie dar. Streitigkeiten aus der Nutzung dieser Website oder unserer Dienstleistungen werden zunächst über unser internes Beschwerdeverfahren behandelt."
+  }
+}
