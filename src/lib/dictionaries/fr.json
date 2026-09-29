@@ -34,10 +34,22 @@
     "heroSubtitle": "{{siteName}} exploite une installation de traitement moderne dédiée au raffinage du pétrole brut en carburants premium et produits pétrochimiques, soutenue par un contrôle qualité rigoureux et un engagement ferme envers des opérations sûres et responsables.",
     "heroCtaSecondary": "Découvrir Nos Services",
     "stats": [
-      { "value": "13+", "label": "Années d'Activité" },
-      { "value": "3", "label": "Lignes de Service Principales" },
-      { "value": "24/7", "label": "Surveillance de l'Installation" },
-      { "value": "ISO", "label": "Systèmes Qualité Alignés" }
+      {
+        "value": "13+",
+        "label": "Années d'Activité"
+      },
+      {
+        "value": "3",
+        "label": "Lignes de Service Principales"
+      },
+      {
+        "value": "24/7",
+        "label": "Surveillance de l'Installation"
+      },
+      {
+        "value": "ISO",
+        "label": "Systèmes Qualité Alignés"
+      }
     ],
     "introTitle": "Une raffinerie indépendante fondée sur la rigueur des processus",
     "introBody1": "{{siteName}} a été créée dans un but simple : transformer le pétrole brut en carburants et intrants pétrochimiques dont dépend l'industrie régionale, de manière fiable et à spécification constante.",
@@ -46,16 +58,53 @@
     "servicesSubtitle": "Trois lignes de service, chacune construite autour d'une étape distincte de la chaîne de valeur pétrolière.",
     "pillarsTitle": "Comment nous opérons",
     "pillarsSubtitle": "La sécurité, la responsabilité environnementale et l'assurance qualité sont traitées comme des exigences opérationnelles, et non comme des considérations secondaires.",
-    "testimonials": [
-      { "text": "{{shortName}} fait preuve d'une constance difficile à trouver sur ce marché. Les délais de livraison sont respectés, les fiches techniques du produit correspondent à ce qui arrive réellement, et quand quelque chose doit être clarifié, quelqu'un décroche le téléphone.", "role": "Responsable des Achats, Entreprise de Distribution Régionale" },
-      { "text": "Nous avons évalué plusieurs fournisseurs régionaux avant de choisir {{shortName}}. Ce qui a marqué la différence, c'est la quantité de documentation qu'ils étaient prêts à partager en amont, et la cohérence de leurs résultats de laboratoire avec nos propres tests indépendants.", "role": "Directrice de la Chaîne d'Approvisionnement, Fabricant Industriel" },
-      { "text": "Travailler avec {{shortName}} sur la coordination logistique a été simple. Ils planifient en fonction de nos fenêtres de livraison plutôt que d'attendre que nous nous adaptions aux leurs, ce qui semble anodin jusqu'à ce qu'on ait affaire à des fournisseurs qui ne le font pas.", "role": "Responsable des Opérations, Réseau de Distribution de Carburant" }
-    ],
-    "prevTestimonial": "Témoignage précédent",
-    "nextTestimonial": "Témoignage suivant",
     "ctaTitle": "Intéressé à travailler avec nous ?",
     "ctaBody": "Parlez-nous de vos besoins en approvisionnement, distribution ou appui à l'exploration, et notre équipe vous recontactera.",
-    "ctaButton": "Nous Contacter"
+    "ctaButton": "Nous Contacter",
+    "processTitle": "Comment Nous Raffinons",
+    "processSubtitle": "De la réception du brut à l'expédition finale, voici ce qui se passe dans notre installation.",
+    "processSteps": [
+      {
+        "title": "Réception du Brut",
+        "body": "Le pétrole brut arrive par camion-citerne ou pipeline, puis est mesuré, échantillonné et enregistré avant son stockage."
+      },
+      {
+        "title": "Distillation",
+        "body": "Les unités de distillation atmosphérique et sous vide séparent le brut en ses fractions constitutives selon leur point d'ébullition."
+      },
+      {
+        "title": "Traitement et Raffinage",
+        "body": "Les unités de traitement réduisent la teneur en soufre et raffinent chaque fraction jusqu'à la spécification du produit fini."
+      },
+      {
+        "title": "Contrôle Qualité",
+        "body": "Chaque lot est testé en interne selon les fiches techniques avant d'être autorisé à l'expédition."
+      },
+      {
+        "title": "Expédition",
+        "body": "Le produit validé est chargé et suivi depuis notre sortie jusqu'à la confirmation de livraison."
+      }
+    ],
+    "whyTitle": "Pourquoi Nos Partenaires Nous Choisissent",
+    "whySubtitle": "Quelques raisons pour lesquelles nos partenaires acheteurs restent avec nous plus longtemps que prévu.",
+    "whyItems": {
+      "directness": {
+        "title": "Directement Depuis la Source",
+        "body": "Aucun intermédiaire entre vous et les unités qui produisent réellement votre carburant."
+      },
+      "logistics": {
+        "title": "Une Logistique Adaptée à Votre Emploi du Temps",
+        "body": "Des livraisons planifiées selon vos horaires d'exploitation, pas les nôtres."
+      },
+      "reach": {
+        "title": "Portée Régionale et Internationale",
+        "body": "Au service de partenaires acheteurs à travers l'Afrique de l'Ouest et au-delà."
+      },
+      "safety": {
+        "title": "La Sécurité Avant Tout",
+        "body": "Aucun raccourci, délai ou impératif commercial ne prime jamais sur une procédure de sécurité."
+      }
+    }
   },
   "about": {
     "heroTitle": "À Propos de {{siteName}}",
@@ -68,10 +117,22 @@
     "missionBody": "Transformer le pétrole brut en carburants sur lesquels nos clients peuvent compter sans avoir à revérifier, et être clairs sur nos capacités lorsque ce n'est pas le cas.",
     "valuesTitle": "Ce qui guide nos opérations",
     "values": [
-      { "title": "Rigueur des Processus", "body": "Des procédures cohérentes à chaque étape, de la réception du brut à l'expédition du produit final, afin que la qualité ne dépende pas de l'équipe de service." },
-      { "title": "Transparence", "body": "Les clients peuvent demander des résultats de laboratoire, des fiches techniques et de la documentation de processus — nous considérons l'examen minutieux comme normal, pas comme une gêne." },
-      { "title": "La Sécurité d'Abord", "body": "Aucun délai de livraison ni pression commerciale ne prime sur une procédure de sécurité. C'est une règle, pas une simple recommandation." },
-      { "title": "Relations à Long Terme", "body": "Nous préférons croître lentement avec des clients qui font confiance à notre documentation plutôt que rapidement avec ceux qui ne la demandent pas." }
+      {
+        "title": "Rigueur des Processus",
+        "body": "Des procédures cohérentes à chaque étape, de la réception du brut à l'expédition du produit final, afin que la qualité ne dépende pas de l'équipe de service."
+      },
+      {
+        "title": "Transparence",
+        "body": "Les clients peuvent demander des résultats de laboratoire, des fiches techniques et de la documentation de processus — nous considérons l'examen minutieux comme normal, pas comme une gêne."
+      },
+      {
+        "title": "La Sécurité d'Abord",
+        "body": "Aucun délai de livraison ni pression commerciale ne prime sur une procédure de sécurité. C'est une règle, pas une simple recommandation."
+      },
+      {
+        "title": "Relations à Long Terme",
+        "body": "Nous préférons croître lentement avec des clients qui font confiance à notre documentation plutôt que rapidement avec ceux qui ne la demandent pas."
+      }
     ],
     "leadershipTitle": "Notre Équipe",
     "leadershipBody": "Nos équipes techniques et commerciales sont organisées de façon à ce que chaque demande atteigne une personne qui comprend réellement la question de processus ou de logistique concernée, plutôt qu'un généraliste suivant un script. Les coordonnées directes du personnel ne sont pas indiquées sur ce site — utilisez la page Contact pour joindre le bon service.",

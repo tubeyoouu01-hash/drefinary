@@ -34,10 +34,22 @@
     "heroSubtitle": "{{siteName}} vận hành một cơ sở chế biến hiện đại chuyên tinh luyện dầu thô thành nhiên liệu cao cấp và các sản phẩm hóa dầu, được hậu thuẫn bởi kiểm soát chất lượng nghiêm ngặt và cam kết vững chắc về hoạt động an toàn, có trách nhiệm.",
     "heroCtaSecondary": "Khám Phá Dịch Vụ",
     "stats": [
-      { "value": "13+", "label": "Năm Hoạt Động" },
-      { "value": "3", "label": "Mảng Dịch Vụ Cốt Lõi" },
-      { "value": "24/7", "label": "Giám Sát Nhà Máy" },
-      { "value": "ISO", "label": "Hệ Thống Chất Lượng Tương Thích" }
+      {
+        "value": "13+",
+        "label": "Năm Hoạt Động"
+      },
+      {
+        "value": "3",
+        "label": "Mảng Dịch Vụ Cốt Lõi"
+      },
+      {
+        "value": "24/7",
+        "label": "Giám Sát Nhà Máy"
+      },
+      {
+        "value": "ISO",
+        "label": "Hệ Thống Chất Lượng Tương Thích"
+      }
     ],
     "introTitle": "Một nhà máy lọc dầu độc lập xây dựng trên kỷ luật quy trình",
     "introBody1": "{{siteName}} được thành lập với một mục đích đơn giản: chuyển đổi dầu thô thành nhiên liệu và nguyên liệu hóa dầu mà ngành công nghiệp khu vực phụ thuộc vào, một cách đáng tin cậy và theo tiêu chuẩn nhất quán.",
@@ -46,16 +58,53 @@
     "servicesSubtitle": "Ba mảng dịch vụ, mỗi mảng được xây dựng xoay quanh một giai đoạn riêng biệt của chuỗi giá trị dầu khí.",
     "pillarsTitle": "Cách chúng tôi vận hành",
     "pillarsSubtitle": "An toàn, trách nhiệm môi trường và đảm bảo chất lượng được xem là yêu cầu vận hành, chứ không phải điều bổ sung sau cùng.",
-    "testimonials": [
-      { "text": "{{shortName}} nhất quán theo cách khó tìm thấy trên thị trường này. Lịch giao hàng được tôn trọng, bảng thông số kỹ thuật sản phẩm khớp với hàng thực tế nhận được, và khi cần làm rõ điều gì đó, luôn có người nghe điện thoại.", "role": "Giám Đốc Thu Mua, Công Ty Phân Phối Khu Vực" },
-      { "text": "Chúng tôi đã đánh giá nhiều nhà cung cấp khu vực trước khi chọn {{shortName}}. Điều nổi bật là lượng tài liệu họ sẵn sàng chia sẻ ngay từ đầu, và mức độ khớp giữa kết quả phòng thí nghiệm của họ với các thử nghiệm độc lập của chúng tôi.", "role": "Giám Đốc Chuỗi Cung Ứng, Nhà Sản Xuất Công Nghiệp" },
-      { "text": "Làm việc với {{shortName}} về điều phối hậu cần rất suôn sẻ. Họ lên kế hoạch xoay quanh khung giờ giao hàng của chúng tôi thay vì mong chúng tôi lên kế hoạch xoay quanh họ, điều nghe có vẻ nhỏ cho đến khi bạn từng làm việc với những nhà cung cấp không làm như vậy.", "role": "Trưởng Bộ Phận Vận Hành, Mạng Lưới Bán Lẻ Nhiên Liệu" }
-    ],
-    "prevTestimonial": "Nhận xét trước",
-    "nextTestimonial": "Nhận xét tiếp theo",
     "ctaTitle": "Quan tâm đến việc hợp tác cùng chúng tôi?",
     "ctaBody": "Hãy cho chúng tôi biết nhu cầu của bạn về thu mua, phân phối hoặc hỗ trợ thăm dò, đội ngũ của chúng tôi sẽ liên hệ lại.",
-    "ctaButton": "Liên Hệ Với Chúng Tôi"
+    "ctaButton": "Liên Hệ Với Chúng Tôi",
+    "processTitle": "Cách Chúng Tôi Tinh Luyện",
+    "processSubtitle": "Từ khi tiếp nhận dầu thô đến khi xuất hàng cuối cùng, đây là những gì diễn ra bên trong cơ sở của chúng tôi.",
+    "processSteps": [
+      {
+        "title": "Tiếp Nhận Dầu Thô",
+        "body": "Dầu thô đến bằng xe bồn hoặc đường ống, được đo lường, lấy mẫu và ghi nhận trước khi vào kho lưu trữ."
+      },
+      {
+        "title": "Chưng Cất",
+        "body": "Các đơn vị chưng cất khí quyển và chân không tách dầu thô thành các phân đoạn cấu thành theo điểm sôi."
+      },
+      {
+        "title": "Xử Lý & Tinh Luyện",
+        "body": "Các đơn vị xử lý giảm hàm lượng lưu huỳnh và tinh luyện từng phân đoạn đạt tiêu chuẩn thành phẩm."
+      },
+      {
+        "title": "Kiểm Tra Chất Lượng",
+        "body": "Mỗi lô hàng được kiểm nghiệm nội bộ theo bảng thông số kỹ thuật trước khi được phép xuất hàng."
+      },
+      {
+        "title": "Xuất Hàng",
+        "body": "Sản phẩm đã được kiểm định sẽ được bốc hàng và theo dõi từ cổng nhà máy cho đến khi xác nhận giao hàng."
+      }
+    ],
+    "whyTitle": "Vì Sao Đối Tác Chọn Chúng Tôi",
+    "whySubtitle": "Một vài lý do khiến các đối tác thu mua gắn bó với chúng tôi lâu hơn họ dự tính.",
+    "whyItems": {
+      "directness": {
+        "title": "Trực Tiếp Từ Nguồn",
+        "body": "Không có lớp trung gian nào giữa bạn và các đơn vị thực sự sản xuất ra nhiên liệu của bạn."
+      },
+      "logistics": {
+        "title": "Hậu Cần Phù Hợp Với Lịch Trình Của Bạn",
+        "body": "Việc giao hàng được lên kế hoạch theo giờ hoạt động của bạn, không phải của chúng tôi."
+      },
+      "reach": {
+        "title": "Phạm Vi Khu Vực & Quốc Tế",
+        "body": "Phục vụ các đối tác thu mua trên khắp Tây Phi và xa hơn nữa."
+      },
+      "safety": {
+        "title": "Vận Hành Đặt An Toàn Lên Hàng Đầu",
+        "body": "Không một lối tắt, thời hạn hay biên lợi nhuận nào được phép vượt qua quy trình an toàn."
+      }
+    }
   },
   "about": {
     "heroTitle": "Về {{siteName}}",
@@ -68,10 +117,22 @@
     "missionBody": "Chế biến dầu thô thành nhiên liệu mà khách hàng có thể tin cậy mà không cần kiểm tra lại, và thẳng thắn về năng lực của chúng tôi khi chưa đáp ứng được.",
     "valuesTitle": "Những giá trị định hướng hoạt động của chúng tôi",
     "values": [
-      { "title": "Kỷ Luật Quy Trình", "body": "Quy trình nhất quán ở mọi giai đoạn, từ tiếp nhận dầu thô đến xuất sản phẩm cuối cùng, để chất lượng không phụ thuộc vào ai đang trực ca." },
-      { "title": "Minh Bạch", "body": "Khách hàng có thể yêu cầu kết quả phòng thí nghiệm, bảng thông số kỹ thuật và tài liệu quy trình — chúng tôi xem việc xem xét kỹ lưỡng là bình thường, không phải phiền toái." },
-      { "title": "An Toàn Là Trên Hết", "body": "Không thời hạn giao hàng hay áp lực thương mại nào được phép vượt lên trên quy trình an toàn. Đó là một quy tắc, không phải khuyến nghị." },
-      { "title": "Quan Hệ Lâu Dài", "body": "Chúng tôi thà phát triển chậm cùng những khách hàng tin tưởng tài liệu của mình còn hơn phát triển nhanh với những người không hề yêu cầu." }
+      {
+        "title": "Kỷ Luật Quy Trình",
+        "body": "Quy trình nhất quán ở mọi giai đoạn, từ tiếp nhận dầu thô đến xuất sản phẩm cuối cùng, để chất lượng không phụ thuộc vào ai đang trực ca."
+      },
+      {
+        "title": "Minh Bạch",
+        "body": "Khách hàng có thể yêu cầu kết quả phòng thí nghiệm, bảng thông số kỹ thuật và tài liệu quy trình — chúng tôi xem việc xem xét kỹ lưỡng là bình thường, không phải phiền toái."
+      },
+      {
+        "title": "An Toàn Là Trên Hết",
+        "body": "Không thời hạn giao hàng hay áp lực thương mại nào được phép vượt lên trên quy trình an toàn. Đó là một quy tắc, không phải khuyến nghị."
+      },
+      {
+        "title": "Quan Hệ Lâu Dài",
+        "body": "Chúng tôi thà phát triển chậm cùng những khách hàng tin tưởng tài liệu của mình còn hơn phát triển nhanh với những người không hề yêu cầu."
+      }
     ],
     "leadershipTitle": "Đội Ngũ Của Chúng Tôi",
     "leadershipBody": "Các đội ngũ kỹ thuật và thương mại của chúng tôi được tổ chức để mỗi yêu cầu đều đến được người thực sự hiểu vấn đề quy trình hoặc hậu cần liên quan, chứ không phải một người đọc theo kịch bản. Thông tin liên hệ trực tiếp của từng nhân viên không được hiển thị trên trang web này — vui lòng dùng trang Liên Hệ để đến đúng bộ phận.",

@@ -34,10 +34,22 @@
     "heroSubtitle": "{{siteName}} operates a modern processing facility dedicated to refining crude oil into premium fuels and petrochemical products, backed by rigorous quality control and a firm commitment to safe, responsible operations.",
     "heroCtaSecondary": "Explore Our Services",
     "stats": [
-      { "value": "13+", "label": "Years in Operation" },
-      { "value": "3", "label": "Core Service Lines" },
-      { "value": "24/7", "label": "Facility Monitoring" },
-      { "value": "ISO", "label": "Aligned Quality Systems" }
+      {
+        "value": "13+",
+        "label": "Years in Operation"
+      },
+      {
+        "value": "3",
+        "label": "Core Service Lines"
+      },
+      {
+        "value": "24/7",
+        "label": "Facility Monitoring"
+      },
+      {
+        "value": "ISO",
+        "label": "Aligned Quality Systems"
+      }
     ],
     "introTitle": "An independent refinery built on process discipline",
     "introBody1": "{{siteName}} was established to serve a simple purpose: convert crude oil into the fuels and petrochemical feedstocks that regional industry depends on, reliably and to consistent specification.",
@@ -46,16 +58,53 @@
     "servicesSubtitle": "Three service lines, each built around a distinct stage of the petroleum value chain.",
     "pillarsTitle": "How we operate",
     "pillarsSubtitle": "Safety, environmental responsibility, and quality assurance are treated as operating requirements, not afterthoughts.",
-    "testimonials": [
-      { "text": "{{shortName}} has been consistent in a way that's hard to find in this market. Delivery schedules are honoured, product specification sheets match what actually arrives, and when something needs clarifying, someone picks up the phone.", "role": "Procurement Manager, Regional Distribution Firm" },
-      { "text": "We evaluated several regional suppliers before settling on {{shortName}}. What stood out was how much documentation they were willing to share upfront, and how closely their lab results tracked with our own independent testing.", "role": "Supply Chain Director, Industrial Manufacturer" },
-      { "text": "Working with {{shortName}} on logistics coordination has been straightforward. They plan around our delivery windows instead of expecting us to plan around theirs, which sounds small until you've dealt with suppliers who don't.", "role": "Operations Lead, Fuel Retail Network" }
-    ],
-    "prevTestimonial": "Previous testimonial",
-    "nextTestimonial": "Next testimonial",
     "ctaTitle": "Interested in working with us?",
     "ctaBody": "Tell us about your offtake, distribution, or exploration-support needs and our team will follow up.",
-    "ctaButton": "Get in Touch"
+    "ctaButton": "Get in Touch",
+    "processTitle": "How We Refine",
+    "processSubtitle": "From crude intake to final dispatch, here's what happens inside our facility.",
+    "processSteps": [
+      {
+        "title": "Crude Intake",
+        "body": "Crude oil arrives by tanker or pipeline and is metered, sampled, and logged before entering storage."
+      },
+      {
+        "title": "Distillation",
+        "body": "Atmospheric and vacuum distillation units separate the crude into its component fractions by boiling point."
+      },
+      {
+        "title": "Treatment & Refining",
+        "body": "Treatment units reduce sulfur content and refine each fraction to finished product specification."
+      },
+      {
+        "title": "Quality Testing",
+        "body": "Every batch is tested in-house against specification sheets before it's cleared for dispatch."
+      },
+      {
+        "title": "Dispatch",
+        "body": "Cleared product is loaded and tracked from our gate through to delivery confirmation."
+      }
+    ],
+    "whyTitle": "Why Partners Choose Us",
+    "whySubtitle": "A few reasons offtake partners stay with us longer than they expected to.",
+    "whyItems": {
+      "directness": {
+        "title": "Direct From Source",
+        "body": "No layers of intermediaries between you and the units that actually produce your fuel."
+      },
+      "logistics": {
+        "title": "Logistics That Fit Your Schedule",
+        "body": "Deliveries planned around your operating hours, not ours."
+      },
+      "reach": {
+        "title": "Regional & International Reach",
+        "body": "Serving offtake partners across West Africa and beyond."
+      },
+      "safety": {
+        "title": "Safety-First Operations",
+        "body": "No shortcut, deadline, or margin ever overrides a safety procedure."
+      }
+    }
   },
   "about": {
     "heroTitle": "About {{siteName}}",
@@ -68,10 +117,22 @@
     "missionBody": "To process crude oil into fuels our clients can rely on without having to double-check, and to be straightforward about our capabilities when we can't.",
     "valuesTitle": "What guides our operations",
     "values": [
-      { "title": "Process Discipline", "body": "Consistent procedures at every stage, from crude intake to final product dispatch, so quality doesn't depend on who's on shift." },
-      { "title": "Transparency", "body": "Clients can request lab results, specification sheets, and process documentation — we treat scrutiny as normal, not an inconvenience." },
-      { "title": "Safety First", "body": "No delivery deadline or commercial pressure overrides a safety procedure. That's a rule, not a guideline." },
-      { "title": "Long-Term Relationships", "body": "We'd rather grow slowly with clients who trust our documentation than grow quickly with ones who don't ask for it." }
+      {
+        "title": "Process Discipline",
+        "body": "Consistent procedures at every stage, from crude intake to final product dispatch, so quality doesn't depend on who's on shift."
+      },
+      {
+        "title": "Transparency",
+        "body": "Clients can request lab results, specification sheets, and process documentation — we treat scrutiny as normal, not an inconvenience."
+      },
+      {
+        "title": "Safety First",
+        "body": "No delivery deadline or commercial pressure overrides a safety procedure. That's a rule, not a guideline."
+      },
+      {
+        "title": "Long-Term Relationships",
+        "body": "We'd rather grow slowly with clients who trust our documentation than grow quickly with ones who don't ask for it."
+      }
     ],
     "leadershipTitle": "Our Team",
     "leadershipBody": "Our technical and commercial teams are organised so that enquiries reach someone who actually understands the relevant process or logistics question, rather than a generalist reading from a script. Individual staff contact details are withheld on this site — use the Contact page to reach the right department.",

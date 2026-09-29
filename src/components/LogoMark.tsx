@@ -16,7 +16,7 @@ export function LogoMark({ className }: { className?: string }) {
     // width={12}
     height={12}
     src="/Dangote-Petroleum-Refnery-logo-scaled.png"
-      className={`flex items-center justify-center rounded-full 
+      className={`flex bg-white items-center justify-center rounded-full 
 
         text-white ring-2 ring-red/80 ring-offset-2 ring-offset-white ${className ?? "h-10 w-10"}`}
       aria-label={`${SITE_SHORT_NAME} logo placeholder`}

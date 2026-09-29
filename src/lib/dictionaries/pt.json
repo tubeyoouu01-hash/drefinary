@@ -34,10 +34,22 @@
     "heroSubtitle": "A {{siteName}} opera uma instalação de processamento moderna dedicada a refinar petróleo bruto em combustíveis premium e produtos petroquímicos, apoiada por um controlo de qualidade rigoroso e um compromisso firme com operações seguras e responsáveis.",
     "heroCtaSecondary": "Explore os Nossos Serviços",
     "stats": [
-      { "value": "13+", "label": "Anos de Atividade" },
-      { "value": "3", "label": "Linhas de Serviço Principais" },
-      { "value": "24/7", "label": "Monitorização das Instalações" },
-      { "value": "ISO", "label": "Sistemas de Qualidade Alinhados" }
+      {
+        "value": "13+",
+        "label": "Anos de Atividade"
+      },
+      {
+        "value": "3",
+        "label": "Linhas de Serviço Principais"
+      },
+      {
+        "value": "24/7",
+        "label": "Monitorização das Instalações"
+      },
+      {
+        "value": "ISO",
+        "label": "Sistemas de Qualidade Alinhados"
+      }
     ],
     "introTitle": "Uma refinaria independente assente na disciplina de processos",
     "introBody1": "A {{siteName}} foi criada com um propósito simples: converter petróleo bruto nos combustíveis e matérias-primas petroquímicas de que a indústria regional depende, de forma fiável e com especificação consistente.",
@@ -46,16 +58,53 @@
     "servicesSubtitle": "Três linhas de serviço, cada uma construída em torno de uma etapa distinta da cadeia de valor do petróleo.",
     "pillarsTitle": "Como operamos",
     "pillarsSubtitle": "A segurança, a responsabilidade ambiental e a garantia de qualidade são tratadas como requisitos operacionais, não como algo secundário.",
-    "testimonials": [
-      { "text": "A {{shortName}} tem sido consistente de uma forma difícil de encontrar neste mercado. Os prazos de entrega são cumpridos, as fichas de especificação do produto correspondem ao que realmente chega e, quando é preciso esclarecer algo, alguém atende o telefone.", "role": "Gestor de Compras, Empresa de Distribuição Regional" },
-      { "text": "Avaliámos vários fornecedores regionais antes de escolher a {{shortName}}. O que se destacou foi a quantidade de documentação que estiveram dispostos a partilhar antecipadamente e a proximidade dos seus resultados laboratoriais com os nossos testes independentes.", "role": "Diretora da Cadeia de Abastecimento, Fabricante Industrial" },
-      { "text": "Trabalhar com a {{shortName}} na coordenação logística tem sido simples. Planeiam em torno das nossas janelas de entrega em vez de esperarem que planeemos em torno das deles, o que parece pouco até se lidar com fornecedores que não o fazem.", "role": "Responsável de Operações, Rede de Retalho de Combustíveis" }
-    ],
-    "prevTestimonial": "Testemunho anterior",
-    "nextTestimonial": "Testemunho seguinte",
     "ctaTitle": "Interessado em trabalhar connosco?",
     "ctaBody": "Conte-nos as suas necessidades de fornecimento, distribuição ou apoio à exploração e a nossa equipa entrará em contacto.",
-    "ctaButton": "Contacte-nos"
+    "ctaButton": "Contacte-nos",
+    "processTitle": "Como Refinamos",
+    "processSubtitle": "Da receção do crude à expedição final, é isto que acontece dentro das nossas instalações.",
+    "processSteps": [
+      {
+        "title": "Receção de Crude",
+        "body": "O petróleo bruto chega por camião-cisterna ou oleoduto e é medido, amostrado e registado antes de entrar em armazenamento."
+      },
+      {
+        "title": "Destilação",
+        "body": "As unidades de destilação atmosférica e a vácuo separam o crude nas suas frações constituintes segundo o ponto de ebulição."
+      },
+      {
+        "title": "Tratamento e Refinação",
+        "body": "As unidades de tratamento reduzem o teor de enxofre e refinam cada fração até à especificação do produto acabado."
+      },
+      {
+        "title": "Testes de Qualidade",
+        "body": "Cada lote é testado internamente segundo as fichas de especificação antes de ser autorizado para expedição."
+      },
+      {
+        "title": "Expedição",
+        "body": "O produto aprovado é carregado e monitorizado desde a nossa saída até à confirmação de entrega."
+      }
+    ],
+    "whyTitle": "Porque Nos Escolhem os Nossos Parceiros",
+    "whySubtitle": "Algumas razões pelas quais os parceiros compradores permanecem connosco mais tempo do que esperavam.",
+    "whyItems": {
+      "directness": {
+        "title": "Diretamente da Fonte",
+        "body": "Sem camadas de intermediários entre si e as unidades que realmente produzem o seu combustível."
+      },
+      "logistics": {
+        "title": "Logística Ajustada ao Seu Horário",
+        "body": "Entregas planeadas de acordo com o seu horário de funcionamento, não o nosso."
+      },
+      "reach": {
+        "title": "Alcance Regional e Internacional",
+        "body": "Ao serviço de parceiros compradores em toda a África Ocidental e além."
+      },
+      "safety": {
+        "title": "Operações com a Segurança em Primeiro Lugar",
+        "body": "Nenhum atalho, prazo ou margem comercial se sobrepõe jamais a um procedimento de segurança."
+      }
+    }
   },
   "about": {
     "heroTitle": "Sobre a {{siteName}}",
@@ -68,10 +117,22 @@
     "missionBody": "Processar petróleo bruto em combustíveis em que os nossos clientes possam confiar sem precisarem de verificar duas vezes, e ser diretos sobre as nossas capacidades quando isso não for possível.",
     "valuesTitle": "O que orienta as nossas operações",
     "values": [
-      { "title": "Disciplina de Processo", "body": "Procedimentos consistentes em cada etapa, desde a receção do crude até à expedição do produto final, para que a qualidade não dependa de quem está de turno." },
-      { "title": "Transparência", "body": "Os clientes podem solicitar resultados laboratoriais, fichas de especificação e documentação de processos — tratamos o escrutínio como algo normal, não como um incómodo." },
-      { "title": "Segurança em Primeiro Lugar", "body": "Nenhum prazo de entrega ou pressão comercial se sobrepõe a um procedimento de segurança. Isso é uma regra, não uma sugestão." },
-      { "title": "Relações de Longo Prazo", "body": "Preferimos crescer lentamente com clientes que confiam na nossa documentação do que rapidamente com aqueles que não a pedem." }
+      {
+        "title": "Disciplina de Processo",
+        "body": "Procedimentos consistentes em cada etapa, desde a receção do crude até à expedição do produto final, para que a qualidade não dependa de quem está de turno."
+      },
+      {
+        "title": "Transparência",
+        "body": "Os clientes podem solicitar resultados laboratoriais, fichas de especificação e documentação de processos — tratamos o escrutínio como algo normal, não como um incómodo."
+      },
+      {
+        "title": "Segurança em Primeiro Lugar",
+        "body": "Nenhum prazo de entrega ou pressão comercial se sobrepõe a um procedimento de segurança. Isso é uma regra, não uma sugestão."
+      },
+      {
+        "title": "Relações de Longo Prazo",
+        "body": "Preferimos crescer lentamente com clientes que confiam na nossa documentação do que rapidamente com aqueles que não a pedem."
+      }
     ],
     "leadershipTitle": "A Nossa Equipa",
     "leadershipBody": "As nossas equipas técnica e comercial estão organizadas para que cada pedido chegue a alguém que realmente compreenda a questão de processo ou logística em causa, e não a um generalista a ler um guião. Os contactos diretos dos colaboradores não são apresentados neste site — utilize a página de Contacto para chegar ao departamento certo.",

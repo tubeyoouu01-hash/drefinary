@@ -9,7 +9,7 @@
  */
 
 export const SITE_NAME = "Dangote Refinery";
-export const SITE_SHORT_NAME = "Dangote Refinary";
+export const SITE_SHORT_NAME = "Dangote";
 export const SITE_SUFFIX = "Refinery";
 export const SITE_DOMAIN = "sales.enquiry@dangote.com";
 

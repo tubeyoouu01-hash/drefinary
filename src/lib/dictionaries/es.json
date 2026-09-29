@@ -34,10 +34,22 @@
     "heroSubtitle": "{{siteName}} opera una planta de procesamiento moderna dedicada a refinar petróleo crudo en combustibles premium y productos petroquímicos, respaldada por un riguroso control de calidad y un firme compromiso con operaciones seguras y responsables.",
     "heroCtaSecondary": "Explora Nuestros Servicios",
     "stats": [
-      { "value": "13+", "label": "Años en Operación" },
-      { "value": "3", "label": "Líneas de Servicio Principales" },
-      { "value": "24/7", "label": "Monitoreo de la Planta" },
-      { "value": "ISO", "label": "Sistemas de Calidad Alineados" }
+      {
+        "value": "13+",
+        "label": "Años en Operación"
+      },
+      {
+        "value": "3",
+        "label": "Líneas de Servicio Principales"
+      },
+      {
+        "value": "24/7",
+        "label": "Monitoreo de la Planta"
+      },
+      {
+        "value": "ISO",
+        "label": "Sistemas de Calidad Alineados"
+      }
     ],
     "introTitle": "Una refinería independiente basada en la disciplina de procesos",
     "introBody1": "{{siteName}} se estableció con un propósito simple: convertir petróleo crudo en los combustibles y materias primas petroquímicas de los que depende la industria regional, de manera confiable y con especificaciones constantes.",
@@ -46,16 +58,53 @@
     "servicesSubtitle": "Tres líneas de servicio, cada una centrada en una etapa distinta de la cadena de valor del petróleo.",
     "pillarsTitle": "Cómo operamos",
     "pillarsSubtitle": "La seguridad, la responsabilidad ambiental y el aseguramiento de calidad se tratan como requisitos operativos, no como algo secundario.",
-    "testimonials": [
-      { "text": "{{shortName}} ha sido consistente de una manera difícil de encontrar en este mercado. Los cronogramas de entrega se cumplen, las hojas de especificación del producto coinciden con lo que realmente llega, y cuando algo necesita aclararse, alguien contesta el teléfono.", "role": "Gerente de Compras, Empresa de Distribución Regional" },
-      { "text": "Evaluamos varios proveedores regionales antes de decidirnos por {{shortName}}. Lo que destacó fue cuánta documentación estuvieron dispuestos a compartir de antemano, y qué tan de cerca sus resultados de laboratorio coincidían con nuestras propias pruebas independientes.", "role": "Directora de Cadena de Suministro, Fabricante Industrial" },
-      { "text": "Trabajar con {{shortName}} en la coordinación logística ha sido sencillo. Planifican en torno a nuestras ventanas de entrega en lugar de esperar que nosotros planifiquemos en torno a las suyas, lo cual parece poca cosa hasta que has tratado con proveedores que no lo hacen.", "role": "Jefe de Operaciones, Red de Venta de Combustible" }
-    ],
-    "prevTestimonial": "Testimonio anterior",
-    "nextTestimonial": "Testimonio siguiente",
     "ctaTitle": "¿Interesado en trabajar con nosotros?",
     "ctaBody": "Cuéntanos sobre tus necesidades de suministro, distribución o apoyo a la exploración y nuestro equipo se pondrá en contacto.",
-    "ctaButton": "Contáctanos"
+    "ctaButton": "Contáctanos",
+    "processTitle": "Cómo Refinamos",
+    "processSubtitle": "Desde la recepción del crudo hasta el despacho final, esto es lo que ocurre dentro de nuestra planta.",
+    "processSteps": [
+      {
+        "title": "Recepción de Crudo",
+        "body": "El petróleo crudo llega por camión cisterna o oleoducto y se mide, muestrea y registra antes de entrar en almacenamiento."
+      },
+      {
+        "title": "Destilación",
+        "body": "Las unidades de destilación atmosférica y al vacío separan el crudo en sus fracciones componentes según el punto de ebullición."
+      },
+      {
+        "title": "Tratamiento y Refinación",
+        "body": "Las unidades de tratamiento reducen el contenido de azufre y refinan cada fracción hasta la especificación del producto terminado."
+      },
+      {
+        "title": "Pruebas de Calidad",
+        "body": "Cada lote se prueba internamente según las hojas de especificación antes de autorizarse su despacho."
+      },
+      {
+        "title": "Despacho",
+        "body": "El producto aprobado se carga y se rastrea desde nuestra salida hasta la confirmación de entrega."
+      }
+    ],
+    "whyTitle": "Por Qué Nos Eligen Nuestros Socios",
+    "whySubtitle": "Algunas razones por las que los socios compradores permanecen con nosotros más tiempo del esperado.",
+    "whyItems": {
+      "directness": {
+        "title": "Directo Desde la Fuente",
+        "body": "Sin capas de intermediarios entre usted y las unidades que realmente producen su combustible."
+      },
+      "logistics": {
+        "title": "Logística Ajustada a Su Horario",
+        "body": "Entregas planificadas según su horario de operación, no el nuestro."
+      },
+      "reach": {
+        "title": "Alcance Regional e Internacional",
+        "body": "Atendemos a socios compradores en toda África Occidental y más allá."
+      },
+      "safety": {
+        "title": "Operaciones con la Seguridad Primero",
+        "body": "Ningún atajo, plazo o margen comercial se antepone jamás a un procedimiento de seguridad."
+      }
+    }
   },
   "about": {
     "heroTitle": "Sobre {{siteName}}",
@@ -68,10 +117,22 @@
     "missionBody": "Procesar petróleo crudo en combustibles en los que nuestros clientes puedan confiar sin tener que verificarlos dos veces, y ser directos sobre nuestras capacidades cuando no puedan.",
     "valuesTitle": "Lo que guía nuestras operaciones",
     "values": [
-      { "title": "Disciplina de Proceso", "body": "Procedimientos consistentes en cada etapa, desde la recepción del crudo hasta el despacho del producto final, para que la calidad no dependa de quién esté de turno." },
-      { "title": "Transparencia", "body": "Los clientes pueden solicitar resultados de laboratorio, hojas de especificación y documentación de procesos: tratamos el escrutinio como algo normal, no como un inconveniente." },
-      { "title": "Seguridad Primero", "body": "Ningún plazo de entrega o presión comercial anula un procedimiento de seguridad. Eso es una regla, no una sugerencia." },
-      { "title": "Relaciones a Largo Plazo", "body": "Preferimos crecer lentamente con clientes que confían en nuestra documentación que crecer rápido con quienes no la solicitan." }
+      {
+        "title": "Disciplina de Proceso",
+        "body": "Procedimientos consistentes en cada etapa, desde la recepción del crudo hasta el despacho del producto final, para que la calidad no dependa de quién esté de turno."
+      },
+      {
+        "title": "Transparencia",
+        "body": "Los clientes pueden solicitar resultados de laboratorio, hojas de especificación y documentación de procesos: tratamos el escrutinio como algo normal, no como un inconveniente."
+      },
+      {
+        "title": "Seguridad Primero",
+        "body": "Ningún plazo de entrega o presión comercial anula un procedimiento de seguridad. Eso es una regla, no una sugerencia."
+      },
+      {
+        "title": "Relaciones a Largo Plazo",
+        "body": "Preferimos crecer lentamente con clientes que confían en nuestra documentación que crecer rápido con quienes no la solicitan."
+      }
     ],
     "leadershipTitle": "Nuestro Equipo",
     "leadershipBody": "Nuestros equipos técnicos y comerciales están organizados para que las consultas lleguen a alguien que realmente entienda la pregunta de proceso o logística relevante, en lugar de un generalista leyendo un guion. Los datos de contacto del personal individual no se muestran en este sitio; usa la página de Contacto para llegar al departamento correcto.",

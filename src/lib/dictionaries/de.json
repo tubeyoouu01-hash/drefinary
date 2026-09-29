@@ -34,10 +34,22 @@
     "heroSubtitle": "{{siteName}} betreibt eine moderne Verarbeitungsanlage, die Rohöl zu hochwertigen Kraftstoffen und petrochemischen Produkten veredelt — gestützt auf strenge Qualitätskontrolle und ein klares Bekenntnis zu sicheren, verantwortungsvollen Abläufen.",
     "heroCtaSecondary": "Unsere Leistungen Entdecken",
     "stats": [
-      { "value": "13+", "label": "Jahre im Betrieb" },
-      { "value": "3", "label": "Kernleistungsbereiche" },
-      { "value": "24/7", "label": "Anlagenüberwachung" },
-      { "value": "ISO", "label": "Ausgerichtete Qualitätssysteme" }
+      {
+        "value": "13+",
+        "label": "Jahre im Betrieb"
+      },
+      {
+        "value": "3",
+        "label": "Kernleistungsbereiche"
+      },
+      {
+        "value": "24/7",
+        "label": "Anlagenüberwachung"
+      },
+      {
+        "value": "ISO",
+        "label": "Ausgerichtete Qualitätssysteme"
+      }
     ],
     "introTitle": "Eine unabhängige Raffinerie, aufgebaut auf Prozessdisziplin",
     "introBody1": "{{siteName}} wurde mit einem einfachen Ziel gegründet: Rohöl zuverlässig und in gleichbleibender Spezifikation in die Kraftstoffe und petrochemischen Vorprodukte umzuwandeln, auf die die regionale Industrie angewiesen ist.",
@@ -46,16 +58,53 @@
     "servicesSubtitle": "Drei Leistungsbereiche, jeder auf eine eigene Stufe der Erdöl-Wertschöpfungskette ausgerichtet.",
     "pillarsTitle": "Wie wir arbeiten",
     "pillarsSubtitle": "Sicherheit, Umweltverantwortung und Qualitätssicherung sind bei uns Betriebsanforderungen, keine Nebensache.",
-    "testimonials": [
-      { "text": "{{shortName}} ist auf eine Weise beständig, die man in diesem Markt selten findet. Liefertermine werden eingehalten, die Spezifikationsblätter stimmen mit dem überein, was tatsächlich ankommt, und wenn etwas zu klären ist, geht jemand ans Telefon.", "role": "Einkaufsleiter, Regionales Vertriebsunternehmen" },
-      { "text": "Wir haben mehrere regionale Lieferanten geprüft, bevor wir uns für {{shortName}} entschieden haben. Aufgefallen ist, wie viele Unterlagen sie von sich aus vorab teilen wollten und wie nah ihre Laborergebnisse an unseren eigenen unabhängigen Tests lagen.", "role": "Leiterin Lieferkette, Industrieller Hersteller" },
-      { "text": "Die Zusammenarbeit mit {{shortName}} bei der Logistikkoordination ist unkompliziert. Sie planen um unsere Lieferfenster herum, statt zu erwarten, dass wir uns nach ihren richten — das klingt nach wenig, bis man mit Lieferanten zu tun hatte, die das nicht tun.", "role": "Betriebsleiter, Tankstellennetz" }
-    ],
-    "prevTestimonial": "Vorherige Referenz",
-    "nextTestimonial": "Nächste Referenz",
     "ctaTitle": "Interesse an einer Zusammenarbeit?",
     "ctaBody": "Schildern Sie uns Ihren Bedarf an Abnahme, Vertrieb oder Explorationsunterstützung, und unser Team meldet sich bei Ihnen.",
-    "ctaButton": "Kontakt Aufnehmen"
+    "ctaButton": "Kontakt Aufnehmen",
+    "processTitle": "So Raffinieren Wir",
+    "processSubtitle": "Vom Rohöleingang bis zum finalen Versand — so läuft es in unserer Anlage ab.",
+    "processSteps": [
+      {
+        "title": "Rohöleingang",
+        "body": "Rohöl trifft per Tankwagen oder Pipeline ein und wird vor der Einlagerung gemessen, beprobt und protokolliert."
+      },
+      {
+        "title": "Destillation",
+        "body": "Atmosphärische und Vakuum-Destillationseinheiten trennen das Rohöl je nach Siedepunkt in seine Fraktionen."
+      },
+      {
+        "title": "Behandlung & Raffination",
+        "body": "Behandlungsanlagen senken den Schwefelgehalt und raffinieren jede Fraktion bis zur Spezifikation des Endprodukts."
+      },
+      {
+        "title": "Qualitätsprüfung",
+        "body": "Jede Charge wird intern anhand der Spezifikationsblätter geprüft, bevor sie für den Versand freigegeben wird."
+      },
+      {
+        "title": "Versand",
+        "body": "Freigegebenes Produkt wird verladen und von unserem Tor bis zur Lieferbestätigung nachverfolgt."
+      }
+    ],
+    "whyTitle": "Warum Partner Sich Für Uns Entscheiden",
+    "whySubtitle": "Ein paar Gründe, warum Abnahmepartner länger bei uns bleiben, als sie erwartet hatten.",
+    "whyItems": {
+      "directness": {
+        "title": "Direkt von der Quelle",
+        "body": "Keine Zwischenhändler-Ebenen zwischen Ihnen und den Anlagen, die Ihren Kraftstoff tatsächlich herstellen."
+      },
+      "logistics": {
+        "title": "Logistik nach Ihrem Zeitplan",
+        "body": "Lieferungen geplant nach Ihren Betriebszeiten, nicht nach unseren."
+      },
+      "reach": {
+        "title": "Regionale & Internationale Reichweite",
+        "body": "Wir beliefern Abnahmepartner in ganz Westafrika und darüber hinaus."
+      },
+      "safety": {
+        "title": "Sicherheit an Erster Stelle",
+        "body": "Keine Abkürzung, kein Termin und keine Gewinnspanne stehen jemals über einer Sicherheitsvorschrift."
+      }
+    }
   },
   "about": {
     "heroTitle": "Über {{siteName}}",
@@ -68,10 +117,22 @@
     "missionBody": "Rohöl zu Kraftstoffen zu verarbeiten, auf die sich unsere Kunden verlassen können, ohne nachprüfen zu müssen — und offen zu sein, wenn wir etwas nicht leisten können.",
     "valuesTitle": "Was unsere Arbeit leitet",
     "values": [
-      { "title": "Prozessdisziplin", "body": "Einheitliche Abläufe in jeder Phase, vom Rohöleingang bis zum Versand des Endprodukts, damit die Qualität nicht davon abhängt, wer Schicht hat." },
-      { "title": "Transparenz", "body": "Kunden können Laborergebnisse, Spezifikationsblätter und Prozessdokumentation anfordern — wir betrachten Prüfung als normal, nicht als Störung." },
-      { "title": "Sicherheit zuerst", "body": "Kein Liefertermin und kein wirtschaftlicher Druck hat Vorrang vor einer Sicherheitsvorschrift. Das ist eine Regel, keine Empfehlung." },
-      { "title": "Langfristige Beziehungen", "body": "Wir wachsen lieber langsam mit Kunden, die unserer Dokumentation vertrauen, als schnell mit solchen, die nicht danach fragen." }
+      {
+        "title": "Prozessdisziplin",
+        "body": "Einheitliche Abläufe in jeder Phase, vom Rohöleingang bis zum Versand des Endprodukts, damit die Qualität nicht davon abhängt, wer Schicht hat."
+      },
+      {
+        "title": "Transparenz",
+        "body": "Kunden können Laborergebnisse, Spezifikationsblätter und Prozessdokumentation anfordern — wir betrachten Prüfung als normal, nicht als Störung."
+      },
+      {
+        "title": "Sicherheit zuerst",
+        "body": "Kein Liefertermin und kein wirtschaftlicher Druck hat Vorrang vor einer Sicherheitsvorschrift. Das ist eine Regel, keine Empfehlung."
+      },
+      {
+        "title": "Langfristige Beziehungen",
+        "body": "Wir wachsen lieber langsam mit Kunden, die unserer Dokumentation vertrauen, als schnell mit solchen, die nicht danach fragen."
+      }
     ],
     "leadershipTitle": "Unser Team",
     "leadershipBody": "Unsere technischen und kaufmännischen Teams sind so organisiert, dass Anfragen bei jemandem landen, der die jeweilige Prozess- oder Logistikfrage wirklich versteht, und nicht bei einem Generalisten, der ein Skript abliest. Kontaktdaten einzelner Mitarbeiter werden auf dieser Website nicht angezeigt — nutzen Sie die Kontaktseite, um die richtige Abteilung zu erreichen.",
