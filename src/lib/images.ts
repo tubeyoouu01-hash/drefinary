@@ -1,3 +1,62 @@
+// /**
+//  * ===== IMAGE FILE — every picture on the site is listed here =====
+//  * To swap a photo, change its `src` (a full URL, or a local path like
+//  * "/images/hero.jpg" once you've added the file to /public/images).
+//  * Nothing else in the codebase needs to change.
+//  */
+
+// export type SiteImage = { src: string; alt: string };
+
+// function placeholder(seed: string, w = 1200, h = 800): string {
+//   return `https://picsum.photos/seed/${seed}/${w}/${h}`;
+// }
+
+// export const images = {
+//   heroHome: {
+//     src: placeholder("oil-refinery-plant-dusk", 1800, 1000),
+//     alt: "Refinery plant at dusk",
+//   },
+//   introHome: {
+//     src: placeholder("crude-oil-storage-tanks", 1000, 800),
+//     alt: "Crude oil storage tanks",
+//   },
+//   aboutStory: {
+//     src: placeholder("refinery-control-room-engineers", 1000, 1000),
+//     alt: "Refinery control room",
+//   },
+//   serviceRefining: {
+//     src: placeholder("refinery-distillation-towers", 1000, 800),
+//     alt: "Distillation towers",
+//   },
+//   serviceDistribution: {
+//     src: placeholder("fuel-tanker-truck-logistics", 1000, 800),
+//     alt: "Fuel tanker truck",
+//   },
+//   serviceExploration: {
+//     src: placeholder("offshore-oil-platform", 1000, 800),
+//     alt: "Offshore oil platform",
+//   },
+//   pillarSafety: {
+//     src: placeholder("refinery-worker-safety-ppe", 1000, 800),
+//     alt: "Worker in safety equipment",
+//   },
+//   pillarEnvironment: {
+//     src: placeholder("refinery-green-environment", 1000, 800),
+//     alt: "Environmental monitoring",
+//   },
+//   pillarQuality: {
+//     src: placeholder("refinery-lab-quality-testing", 1000, 800),
+//     alt: "Laboratory quality testing",
+//   },
+//   processBand: {
+//     src: placeholder("oil-tanker-ship-port", 1800, 700),
+//     alt: "Oil tanker at port",
+//   },
+// } satisfies Record<string, SiteImage>;
+
+// export type ImageKey = keyof typeof images;
+
+
 /**
  * ===== IMAGE FILE — every picture on the site is listed here =====
  * To swap a photo, change its `src` (a full URL, or a local path like

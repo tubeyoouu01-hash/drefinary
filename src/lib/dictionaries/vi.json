@@ -8,7 +8,8 @@
     "about": "Về Chúng Tôi",
     "services": "Dịch Vụ",
     "sustainability": "Phát Triển Bền Vững",
-    "contact": "Liên Hệ"
+    "contact": "Liên Hệ",
+    "products": "Sản Phẩm Của Chúng Tôi"
   },
   "footer": {
     "description": "{{siteName}} chế biến dầu thô thành nhiên liệu tinh chế và các sản phẩm hóa dầu, phục vụ khách hàng công nghiệp và thương mại tại Tây Phi và xa hơn nữa.",
@@ -136,7 +137,10 @@
     ],
     "leadershipTitle": "Đội Ngũ Của Chúng Tôi",
     "leadershipBody": "Các đội ngũ kỹ thuật và thương mại của chúng tôi được tổ chức để mỗi yêu cầu đều đến được người thực sự hiểu vấn đề quy trình hoặc hậu cần liên quan, chứ không phải một người đọc theo kịch bản. Thông tin liên hệ trực tiếp của từng nhân viên không được hiển thị trên trang web này — vui lòng dùng trang Liên Hệ để đến đúng bộ phận.",
-    "licenseNote": "{{siteName}} hoạt động theo các giấy phép lọc dầu và môi trường phù hợp với phạm vi pháp lý của mình (Giấy phép số [Số Giấy Phép]). Các đối tác tiềm năng có thể yêu cầu trực tiếp tài liệu giấy phép hiện hành."
+    "licenseNote": "{{siteName}} hoạt động theo các giấy phép lọc dầu và môi trường phù hợp với phạm vi pháp lý của mình (Giấy phép số [Số Giấy Phép]). Các đối tác tiềm năng có thể yêu cầu trực tiếp tài liệu giấy phép hiện hành.",
+    "ceoSectionTitle": "Lời Nhắn Từ Người Sáng Lập",
+    "ceoTitle": "Giám Đốc Điều Hành kiêm Người Sáng Lập",
+    "ceoQuote": "Chúng tôi xây dựng công ty này dựa trên một ý tưởng đơn giản: nếu bạn không thể giải thích quy trình của mình cho một người mua đang đứng ngay trong phòng điều khiển của chính bạn, có lẽ bạn không nên bán nhiên liệu cho họ."
   },
   "services": {
     "heroTitle": "Dịch Vụ",
@@ -220,5 +224,62 @@
     "privacyBody": "Chúng tôi thu thập thông tin bạn cung cấp khi tìm hiểu về dịch vụ hoặc liên hệ với đội ngũ của chúng tôi, cùng với một số dữ liệu kỹ thuật hạn chế cần thiết để vận hành trang web này. Chúng tôi sử dụng thông tin này để phản hồi các thắc mắc và đánh giá các mối quan hệ kinh doanh tiềm năng. Chúng tôi không bán thông tin cá nhân cho bên thứ ba. Bạn có thể yêu cầu truy cập, chỉnh sửa, hoặc xóa thông tin cá nhân của mình bất cứ lúc nào bằng cách liên hệ với đội ngũ của chúng tôi.",
     "termsTitle": "Điều Khoản Dịch Vụ",
     "termsBody": "Khi sử dụng trang web này, bạn đồng ý cung cấp thông tin chính xác trong bất kỳ yêu cầu nào bạn gửi. Tình trạng sẵn có của sản phẩm, thông số kỹ thuật và điều khoản giao hàng phải qua đánh giá cá nhân, sự phê duyệt của cơ quan quản lý theo quy định và thỏa thuận hợp đồng chính thức; không có nội dung nào trên trang web này cấu thành lời chào hàng hay bảo đảm cung cấp. Mọi tranh chấp phát sinh từ việc sử dụng trang web này hoặc dịch vụ của chúng tôi sẽ được xử lý trước tiên thông qua quy trình khiếu nại nội bộ của chúng tôi."
+  },
+  "products": {
+    "heroTitle": "Sản Phẩm Của Chúng Tôi",
+    "heroSubtitle": "Tổng quan mang tính cấu trúc về các nhóm sản phẩm mà một nhà máy lọc dầu như chúng tôi thường cung cấp. Hãy thay thế các mục này bằng tên sản phẩm và thông số kỹ thuật thực tế, đã được xác minh của bạn.",
+    "introTitle": "Dòng Sản Phẩm",
+    "introBody": "Mỗi mục bên dưới là một chỗ giữ chỗ cho một dòng sản phẩm thực tế. Phiên bản chính thức của trang này sẽ liệt kê tên sản phẩm thực tế, cấp độ và các liên kết đến bảng thông số kỹ thuật hiện hành.",
+    "groupNames": {
+      "fuels": "Nhiên Liệu",
+      "industrial": "Sản Phẩm Công Nghiệp & Nguyên Liệu",
+      "specialty": "Sản Phẩm Đặc Chủng"
+    },
+    "groupDescriptions": {
+      "fuels": "Các sản phẩm nhiên liệu tinh chế dùng cho vận tải và công nghiệp.",
+      "industrial": "Nguyên liệu và sản phẩm số lượng lớn cho ngành công nghiệp hạ nguồn.",
+      "specialty": "Các sản phẩm sản lượng nhỏ hơn, yêu cầu thông số kỹ thuật cao hơn."
+    },
+    "items": {
+      "fuelA": {
+        "name": "Nhiên Liệu Tinh Chế A",
+        "description": "Mục giữ chỗ — hãy thay bằng tên, cấp độ và thông số kỹ thuật thực tế sản phẩm của bạn."
+      },
+      "fuelB": {
+        "name": "Nhiên Liệu Tinh Chế B",
+        "description": "Mục giữ chỗ — hãy thay bằng tên, cấp độ và thông số kỹ thuật thực tế sản phẩm của bạn."
+      },
+      "fuelC": {
+        "name": "Nhiên Liệu Tinh Chế C",
+        "description": "Mục giữ chỗ — hãy thay bằng tên, cấp độ và thông số kỹ thuật thực tế sản phẩm của bạn."
+      },
+      "industrialA": {
+        "name": "Nguyên Liệu Công Nghiệp A",
+        "description": "Mục giữ chỗ — hãy thay bằng tên, cấp độ và thông số kỹ thuật thực tế sản phẩm của bạn."
+      },
+      "industrialB": {
+        "name": "Nguyên Liệu Công Nghiệp B",
+        "description": "Mục giữ chỗ — hãy thay bằng tên, cấp độ và thông số kỹ thuật thực tế sản phẩm của bạn."
+      },
+      "industrialC": {
+        "name": "Nguyên Liệu Công Nghiệp C",
+        "description": "Mục giữ chỗ — hãy thay bằng tên, cấp độ và thông số kỹ thuật thực tế sản phẩm của bạn."
+      },
+      "specialtyA": {
+        "name": "Sản Phẩm Đặc Chủng A",
+        "description": "Mục giữ chỗ — hãy thay bằng tên, cấp độ và thông số kỹ thuật thực tế sản phẩm của bạn."
+      },
+      "specialtyB": {
+        "name": "Sản Phẩm Đặc Chủng B",
+        "description": "Mục giữ chỗ — hãy thay bằng tên, cấp độ và thông số kỹ thuật thực tế sản phẩm của bạn."
+      },
+      "specialtyC": {
+        "name": "Sản Phẩm Đặc Chủng C",
+        "description": "Mục giữ chỗ — hãy thay bằng tên, cấp độ và thông số kỹ thuật thực tế sản phẩm của bạn."
+      }
+    },
+    "specSheetCta": "Yêu Cầu Bảng Thông Số Kỹ Thuật",
+    "ctaTitle": "Đang tìm một sản phẩm cụ thể?",
+    "ctaBody": "Hãy cho chúng tôi biết bạn cần gì, chúng tôi sẽ xác nhận tình trạng sẵn có và thông số kỹ thuật hiện tại."
   }
 }

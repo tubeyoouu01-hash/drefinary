@@ -5,6 +5,8 @@ import { isLocale, type Locale } from "@/lib/locales";
 import { images } from "@/lib/images";
 import { PageHero } from "@/components/PageHero";
 import { Reveal } from "@/components/Reveal";
+import { Avatar } from "@/components/Avatar";
+import { CEO_NAME, CEO_INITIALS, CEO_AVATAR_IMAGE } from "@/lib/leadership";
 
 export default async function AboutPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -33,6 +35,17 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           <h2 className="font-display text-4xl font-bold uppercase mb-4">{a.missionTitle}</h2>
           <span className="red-bar mx-auto mb-6" />
           <p className="text-white/85 text-xl leading-relaxed">{a.missionBody}</p>
+        </Reveal>
+      </section>
+
+      <section className="bg-white py-20">
+        <Reveal className="mx-auto max-w-3xl px-6 text-center">
+          <p className="text-xs tracking-[0.25em] uppercase text-slate-light mb-6">{a.ceoSectionTitle}</p>
+          <Avatar initials={CEO_INITIALS} image={CEO_AVATAR_IMAGE} className="h-24 w-24 text-3xl mx-auto" />
+          <p className="mt-8 text-xl sm:text-2xl text-ink leading-relaxed font-display italic">&ldquo;{a.ceoQuote}&rdquo;</p>
+          <span className="red-bar mx-auto mt-6 mb-4" />
+          <p className="font-display text-lg font-bold uppercase text-blue-deep">{CEO_NAME}</p>
+          <p className="text-sm text-slate">{a.ceoTitle}</p>
         </Reveal>
       </section>
 

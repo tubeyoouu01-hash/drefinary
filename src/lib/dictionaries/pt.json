@@ -8,7 +8,8 @@
     "about": "Sobre Nós",
     "services": "Os Nossos Serviços",
     "sustainability": "Sustentabilidade",
-    "contact": "Contacto"
+    "contact": "Contacto",
+    "products": "Os Nossos Produtos"
   },
   "footer": {
     "description": "A {{siteName}} transforma petróleo bruto em combustíveis refinados e produtos petroquímicos, servindo clientes industriais e comerciais na África Ocidental e além.",
@@ -136,7 +137,10 @@
     ],
     "leadershipTitle": "A Nossa Equipa",
     "leadershipBody": "As nossas equipas técnica e comercial estão organizadas para que cada pedido chegue a alguém que realmente compreenda a questão de processo ou logística em causa, e não a um generalista a ler um guião. Os contactos diretos dos colaboradores não são apresentados neste site — utilize a página de Contacto para chegar ao departamento certo.",
-    "licenseNote": "A {{siteName}} opera ao abrigo de licenças de refinação e ambientais adequadas à sua jurisdição (Licença n.º [Número da Licença]). Os potenciais parceiros podem solicitar diretamente a documentação de licenciamento atual."
+    "licenseNote": "A {{siteName}} opera ao abrigo de licenças de refinação e ambientais adequadas à sua jurisdição (Licença n.º [Número da Licença]). Os potenciais parceiros podem solicitar diretamente a documentação de licenciamento atual.",
+    "ceoSectionTitle": "Uma Mensagem do Nosso Fundador",
+    "ceoTitle": "Diretor Executivo e Fundador",
+    "ceoQuote": "Fundámos esta empresa sobre uma ideia simples: se não consegue explicar o seu processo a um comprador que esteja na sua própria sala de controlo, provavelmente não deveria vender-lhe combustível."
   },
   "services": {
     "heroTitle": "Os Nossos Serviços",
@@ -220,5 +224,62 @@
     "privacyBody": "Recolhemos as informações que fornece ao consultar sobre os nossos serviços ou contactar a nossa equipa, juntamente com dados técnicos limitados necessários para operar este site. Utilizamos esta informação para responder a consultas e avaliar potenciais relações comerciais. Não vendemos informações pessoais a terceiros. Pode solicitar o acesso, correção ou eliminação das suas informações pessoais a qualquer momento, contactando a nossa equipa.",
     "termsTitle": "Termos de Serviço",
     "termsBody": "Ao utilizar este site, concorda em fornecer informações precisas em qualquer consulta que submeta. A disponibilidade do produto, as especificações e os termos de entrega estão sujeitos a avaliação individual, aprovação regulamentar aplicável e acordo contratual formal; nada neste site constitui uma oferta ou garantia de fornecimento. Qualquer litígio decorrente da utilização deste site ou dos nossos serviços será primeiro tratado através do nosso processo interno de reclamações."
+  },
+  "products": {
+    "heroTitle": "Os Nossos Produtos",
+    "heroSubtitle": "Uma visão estrutural das categorias de produtos que uma refinaria como a nossa normalmente fornece. Substitua estas entradas pelos seus próprios nomes de produtos e especificações verificados.",
+    "introTitle": "Gama de Produtos",
+    "introBody": "Cada entrada abaixo é um marcador de posição para uma linha de produtos real. Uma versão em funcionamento desta página listaria nomes de produtos reais, graus e ligações a fichas de especificação atuais.",
+    "groupNames": {
+      "fuels": "Combustíveis",
+      "industrial": "Produtos Industriais e Matérias-Primas",
+      "specialty": "Produtos Especiais"
+    },
+    "groupDescriptions": {
+      "fuels": "Combustíveis refinados para uso de transporte e industrial.",
+      "industrial": "Matérias-primas e produtos a granel para a indústria a jusante.",
+      "specialty": "Produtos de menor volume e maior especificação."
+    },
+    "items": {
+      "fuelA": {
+        "name": "Combustível Refinado A",
+        "description": "Entrada de marcador de posição — substitua pelo nome, grau e especificação reais do seu produto."
+      },
+      "fuelB": {
+        "name": "Combustível Refinado B",
+        "description": "Entrada de marcador de posição — substitua pelo nome, grau e especificação reais do seu produto."
+      },
+      "fuelC": {
+        "name": "Combustível Refinado C",
+        "description": "Entrada de marcador de posição — substitua pelo nome, grau e especificação reais do seu produto."
+      },
+      "industrialA": {
+        "name": "Matéria-Prima Industrial A",
+        "description": "Entrada de marcador de posição — substitua pelo nome, grau e especificação reais do seu produto."
+      },
+      "industrialB": {
+        "name": "Matéria-Prima Industrial B",
+        "description": "Entrada de marcador de posição — substitua pelo nome, grau e especificação reais do seu produto."
+      },
+      "industrialC": {
+        "name": "Matéria-Prima Industrial C",
+        "description": "Entrada de marcador de posição — substitua pelo nome, grau e especificação reais do seu produto."
+      },
+      "specialtyA": {
+        "name": "Produto Especial A",
+        "description": "Entrada de marcador de posição — substitua pelo nome, grau e especificação reais do seu produto."
+      },
+      "specialtyB": {
+        "name": "Produto Especial B",
+        "description": "Entrada de marcador de posição — substitua pelo nome, grau e especificação reais do seu produto."
+      },
+      "specialtyC": {
+        "name": "Produto Especial C",
+        "description": "Entrada de marcador de posição — substitua pelo nome, grau e especificação reais do seu produto."
+      }
+    },
+    "specSheetCta": "Solicitar Ficha de Especificação",
+    "ctaTitle": "À procura de um produto específico?",
+    "ctaBody": "Diga-nos o que precisa e confirmaremos a disponibilidade e especificação atuais."
   }
 }

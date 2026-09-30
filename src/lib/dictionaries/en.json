@@ -8,7 +8,8 @@
     "about": "About Us",
     "services": "Our Services",
     "sustainability": "Sustainability",
-    "contact": "Contact Us"
+    "contact": "Contact Us",
+    "products": "Our Products"
   },
   "footer": {
     "description": "{{siteName}} processes crude oil into refined fuels and petrochemical products, serving industrial and commercial clients across West Africa and beyond.",
@@ -136,7 +137,10 @@
     ],
     "leadershipTitle": "Our Team",
     "leadershipBody": "Our technical and commercial teams are organised so that enquiries reach someone who actually understands the relevant process or logistics question, rather than a generalist reading from a script. Individual staff contact details are withheld on this site — use the Contact page to reach the right department.",
-    "licenseNote": "{{siteName}} operates under refining and environmental permits appropriate to its jurisdiction (Permit No. [Permit Number]). Prospective partners are welcome to request current permit documentation directly."
+    "licenseNote": "{{siteName}} operates under refining and environmental permits appropriate to its jurisdiction (Permit No. [Permit Number]). Prospective partners are welcome to request current permit documentation directly.",
+    "ceoSectionTitle": "A Message From Our Founder",
+    "ceoTitle": "Chief Executive Officer & Founder",
+    "ceoQuote": "We built this company on a simple idea: if you can't explain your process to a buyer standing in your own control room, you probably shouldn't be selling them fuel."
   },
   "services": {
     "heroTitle": "Our Services",
@@ -220,5 +224,62 @@
     "privacyBody": "We collect the information you provide when you enquire about our services or contact our team, together with limited technical data needed to operate this site. We use this information to respond to enquiries and evaluate potential business relationships. We do not sell personal information to third parties. You may request access to, correction of, or deletion of your personal information at any time by contacting our team.",
     "termsTitle": "Terms of Service",
     "termsBody": "By using this website you agree to provide accurate information in any enquiry you submit. Product availability, specifications, and delivery terms are subject to individual assessment, applicable regulatory approval, and formal contractual agreement; nothing on this site constitutes an offer or guarantee of supply. Any dispute arising from use of this site or our services will first be addressed through our internal complaints process."
+  },
+  "products": {
+    "heroTitle": "Our Products",
+    "heroSubtitle": "A structural overview of the product categories a refinery like ours typically supplies. Replace these entries with your own verified product names and specifications.",
+    "introTitle": "Product Range",
+    "introBody": "Every entry below is a placeholder for a real product line. A live version of this page would list actual product names, grades, and links to current specification sheets.",
+    "groupNames": {
+      "fuels": "Fuels",
+      "industrial": "Industrial & Feedstock Products",
+      "specialty": "Specialty Products"
+    },
+    "groupDescriptions": {
+      "fuels": "Refined fuel products for transport and industrial use.",
+      "industrial": "Feedstocks and bulk products for downstream industry.",
+      "specialty": "Smaller-volume, higher-specification products."
+    },
+    "items": {
+      "fuelA": {
+        "name": "Refined Fuel A",
+        "description": "Placeholder entry — replace with your actual product name, grade, and specification."
+      },
+      "fuelB": {
+        "name": "Refined Fuel B",
+        "description": "Placeholder entry — replace with your actual product name, grade, and specification."
+      },
+      "fuelC": {
+        "name": "Refined Fuel C",
+        "description": "Placeholder entry — replace with your actual product name, grade, and specification."
+      },
+      "industrialA": {
+        "name": "Industrial Feedstock A",
+        "description": "Placeholder entry — replace with your actual product name, grade, and specification."
+      },
+      "industrialB": {
+        "name": "Industrial Feedstock B",
+        "description": "Placeholder entry — replace with your actual product name, grade, and specification."
+      },
+      "industrialC": {
+        "name": "Industrial Feedstock C",
+        "description": "Placeholder entry — replace with your actual product name, grade, and specification."
+      },
+      "specialtyA": {
+        "name": "Specialty Product A",
+        "description": "Placeholder entry — replace with your actual product name, grade, and specification."
+      },
+      "specialtyB": {
+        "name": "Specialty Product B",
+        "description": "Placeholder entry — replace with your actual product name, grade, and specification."
+      },
+      "specialtyC": {
+        "name": "Specialty Product C",
+        "description": "Placeholder entry — replace with your actual product name, grade, and specification."
+      }
+    },
+    "specSheetCta": "Request Specification Sheet",
+    "ctaTitle": "Looking for a specific product?",
+    "ctaBody": "Tell us what you need and we'll confirm current availability and specification."
   }
 }

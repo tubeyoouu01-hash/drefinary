@@ -8,7 +8,8 @@
     "about": "Über Uns",
     "services": "Unsere Leistungen",
     "sustainability": "Nachhaltigkeit",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "products": "Unsere Produkte"
   },
   "footer": {
     "description": "{{siteName}} verarbeitet Rohöl zu raffinierten Kraftstoffen und petrochemischen Produkten und beliefert Industrie- und Gewerbekunden in Westafrika und darüber hinaus.",
@@ -136,7 +137,10 @@
     ],
     "leadershipTitle": "Unser Team",
     "leadershipBody": "Unsere technischen und kaufmännischen Teams sind so organisiert, dass Anfragen bei jemandem landen, der die jeweilige Prozess- oder Logistikfrage wirklich versteht, und nicht bei einem Generalisten, der ein Skript abliest. Kontaktdaten einzelner Mitarbeiter werden auf dieser Website nicht angezeigt — nutzen Sie die Kontaktseite, um die richtige Abteilung zu erreichen.",
-    "licenseNote": "{{siteName}} arbeitet unter den für seine Rechtsordnung geeigneten Raffinerie- und Umweltgenehmigungen (Genehmigungsnr. [Genehmigungsnummer]). Interessierte Partner können aktuelle Genehmigungsunterlagen direkt anfordern."
+    "licenseNote": "{{siteName}} arbeitet unter den für seine Rechtsordnung geeigneten Raffinerie- und Umweltgenehmigungen (Genehmigungsnr. [Genehmigungsnummer]). Interessierte Partner können aktuelle Genehmigungsunterlagen direkt anfordern.",
+    "ceoSectionTitle": "Eine Botschaft Unseres Gründers",
+    "ceoTitle": "Geschäftsführer und Gründer",
+    "ceoQuote": "Wir haben dieses Unternehmen auf eine einfache Idee gegründet: Wenn Sie einem Käufer, der in Ihrer eigenen Leitwarte steht, Ihren Prozess nicht erklären können, sollten Sie ihm wahrscheinlich keinen Kraftstoff verkaufen."
   },
   "services": {
     "heroTitle": "Unsere Leistungen",
@@ -220,5 +224,62 @@
     "privacyBody": "Wir erheben die Informationen, die Sie bei einer Anfrage zu unseren Leistungen oder bei der Kontaktaufnahme mit unserem Team angeben, zusammen mit begrenzten technischen Daten, die für den Betrieb dieser Website erforderlich sind. Wir verwenden diese Informationen, um Anfragen zu beantworten und mögliche Geschäftsbeziehungen zu prüfen. Wir verkaufen keine personenbezogenen Daten an Dritte. Sie können jederzeit Zugang zu, Berichtigung oder Löschung Ihrer personenbezogenen Daten verlangen, indem Sie unser Team kontaktieren.",
     "termsTitle": "Nutzungsbedingungen",
     "termsBody": "Durch die Nutzung dieser Website erklären Sie sich damit einverstanden, in jeder Anfrage korrekte Angaben zu machen. Produktverfügbarkeit, Spezifikationen und Lieferbedingungen unterliegen einer individuellen Prüfung, der jeweils erforderlichen behördlichen Genehmigung und einer förmlichen vertraglichen Vereinbarung; nichts auf dieser Website stellt ein Angebot oder eine Liefergarantie dar. Streitigkeiten aus der Nutzung dieser Website oder unserer Dienstleistungen werden zunächst über unser internes Beschwerdeverfahren behandelt."
+  },
+  "products": {
+    "heroTitle": "Unsere Produkte",
+    "heroSubtitle": "Ein struktureller Überblick über die Produktkategorien, die eine Raffinerie wie unsere typischerweise liefert. Ersetzen Sie diese Einträge durch Ihre eigenen, geprüften Produktnamen und Spezifikationen.",
+    "introTitle": "Produktpalette",
+    "introBody": "Jeder unten stehende Eintrag ist ein Platzhalter für eine echte Produktlinie. Eine Live-Version dieser Seite würde tatsächliche Produktnamen, Güteklassen und Links zu aktuellen Spezifikationsblättern auflisten.",
+    "groupNames": {
+      "fuels": "Kraftstoffe",
+      "industrial": "Industrie- und Vorprodukte",
+      "specialty": "Spezialprodukte"
+    },
+    "groupDescriptions": {
+      "fuels": "Raffinierte Kraftstoffe für Transport und industrielle Nutzung.",
+      "industrial": "Vorprodukte und Massengüter für die nachgelagerte Industrie.",
+      "specialty": "Produkte mit geringerem Volumen und höherer Spezifikation."
+    },
+    "items": {
+      "fuelA": {
+        "name": "Raffinierter Kraftstoff A",
+        "description": "Platzhaltereintrag — ersetzen Sie ihn durch Ihren tatsächlichen Produktnamen, Ihre Güteklasse und Spezifikation."
+      },
+      "fuelB": {
+        "name": "Raffinierter Kraftstoff B",
+        "description": "Platzhaltereintrag — ersetzen Sie ihn durch Ihren tatsächlichen Produktnamen, Ihre Güteklasse und Spezifikation."
+      },
+      "fuelC": {
+        "name": "Raffinierter Kraftstoff C",
+        "description": "Platzhaltereintrag — ersetzen Sie ihn durch Ihren tatsächlichen Produktnamen, Ihre Güteklasse und Spezifikation."
+      },
+      "industrialA": {
+        "name": "Industrielles Vorprodukt A",
+        "description": "Platzhaltereintrag — ersetzen Sie ihn durch Ihren tatsächlichen Produktnamen, Ihre Güteklasse und Spezifikation."
+      },
+      "industrialB": {
+        "name": "Industrielles Vorprodukt B",
+        "description": "Platzhaltereintrag — ersetzen Sie ihn durch Ihren tatsächlichen Produktnamen, Ihre Güteklasse und Spezifikation."
+      },
+      "industrialC": {
+        "name": "Industrielles Vorprodukt C",
+        "description": "Platzhaltereintrag — ersetzen Sie ihn durch Ihren tatsächlichen Produktnamen, Ihre Güteklasse und Spezifikation."
+      },
+      "specialtyA": {
+        "name": "Spezialprodukt A",
+        "description": "Platzhaltereintrag — ersetzen Sie ihn durch Ihren tatsächlichen Produktnamen, Ihre Güteklasse und Spezifikation."
+      },
+      "specialtyB": {
+        "name": "Spezialprodukt B",
+        "description": "Platzhaltereintrag — ersetzen Sie ihn durch Ihren tatsächlichen Produktnamen, Ihre Güteklasse und Spezifikation."
+      },
+      "specialtyC": {
+        "name": "Spezialprodukt C",
+        "description": "Platzhaltereintrag — ersetzen Sie ihn durch Ihren tatsächlichen Produktnamen, Ihre Güteklasse und Spezifikation."
+      }
+    },
+    "specSheetCta": "Spezifikationsblatt Anfordern",
+    "ctaTitle": "Suchen Sie ein bestimmtes Produkt?",
+    "ctaBody": "Sagen Sie uns, was Sie benötigen, und wir bestätigen die aktuelle Verfügbarkeit und Spezifikation."
   }
 }

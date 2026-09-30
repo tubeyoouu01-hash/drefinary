@@ -8,7 +8,8 @@
     "about": "À Propos",
     "services": "Nos Services",
     "sustainability": "Durabilité",
-    "contact": "Contact"
+    "contact": "Contact",
+    "products": "Nos Produits"
   },
   "footer": {
     "description": "{{siteName}} transforme le pétrole brut en carburants raffinés et en produits pétrochimiques, au service de clients industriels et commerciaux en Afrique de l'Ouest et au-delà.",
@@ -136,7 +137,10 @@
     ],
     "leadershipTitle": "Notre Équipe",
     "leadershipBody": "Nos équipes techniques et commerciales sont organisées de façon à ce que chaque demande atteigne une personne qui comprend réellement la question de processus ou de logistique concernée, plutôt qu'un généraliste suivant un script. Les coordonnées directes du personnel ne sont pas indiquées sur ce site — utilisez la page Contact pour joindre le bon service.",
-    "licenseNote": "{{siteName}} opère sous des permis de raffinage et environnementaux appropriés à sa juridiction (Permis n° [Numéro de Permis]). Les partenaires potentiels sont invités à demander directement la documentation de permis actuelle."
+    "licenseNote": "{{siteName}} opère sous des permis de raffinage et environnementaux appropriés à sa juridiction (Permis n° [Numéro de Permis]). Les partenaires potentiels sont invités à demander directement la documentation de permis actuelle.",
+    "ceoSectionTitle": "Un Message de Notre Fondateur",
+    "ceoTitle": "Directeur Général et Fondateur",
+    "ceoQuote": "Nous avons fondé cette entreprise sur une idée simple : si vous ne pouvez pas expliquer votre processus à un acheteur debout dans votre propre salle de contrôle, vous ne devriez probablement pas lui vendre de carburant."
   },
   "services": {
     "heroTitle": "Nos Services",
@@ -220,5 +224,62 @@
     "privacyBody": "Nous recueillons les informations que vous fournissez lorsque vous vous renseignez sur nos services ou contactez notre équipe, ainsi que des données techniques limitées nécessaires au fonctionnement de ce site. Nous utilisons ces informations pour répondre aux demandes et évaluer d'éventuelles relations commerciales. Nous ne vendons pas d'informations personnelles à des tiers. Vous pouvez demander l'accès, la correction ou la suppression de vos informations personnelles à tout moment en contactant notre équipe.",
     "termsTitle": "Conditions d'Utilisation",
     "termsBody": "En utilisant ce site web, vous acceptez de fournir des informations exactes dans toute demande que vous soumettez. La disponibilité des produits, les spécifications et les conditions de livraison sont soumises à une évaluation individuelle, à l'approbation réglementaire applicable et à un accord contractuel formel ; rien sur ce site ne constitue une offre ou une garantie d'approvisionnement. Tout litige découlant de l'utilisation de ce site ou de nos services sera d'abord traité par le biais de notre processus interne de réclamation."
+  },
+  "products": {
+    "heroTitle": "Nos Produits",
+    "heroSubtitle": "Un aperçu structurel des catégories de produits qu'une raffinerie comme la nôtre fournit généralement. Remplacez ces entrées par vos propres noms de produits et spécifications vérifiés.",
+    "introTitle": "Gamme de Produits",
+    "introBody": "Chaque entrée ci-dessous est un espace réservé pour une véritable gamme de produits. Une version en ligne de cette page indiquerait les noms de produits réels, les qualités et des liens vers les fiches techniques actuelles.",
+    "groupNames": {
+      "fuels": "Carburants",
+      "industrial": "Produits Industriels et Intrants",
+      "specialty": "Produits Spécialisés"
+    },
+    "groupDescriptions": {
+      "fuels": "Carburants raffinés pour usage de transport et industriel.",
+      "industrial": "Intrants et produits en vrac pour l'industrie aval.",
+      "specialty": "Produits à plus faible volume et spécification plus élevée."
+    },
+    "items": {
+      "fuelA": {
+        "name": "Carburant Raffiné A",
+        "description": "Entrée fictive — remplacez-la par le nom, la qualité et la spécification réels de votre produit."
+      },
+      "fuelB": {
+        "name": "Carburant Raffiné B",
+        "description": "Entrée fictive — remplacez-la par le nom, la qualité et la spécification réels de votre produit."
+      },
+      "fuelC": {
+        "name": "Carburant Raffiné C",
+        "description": "Entrée fictive — remplacez-la par le nom, la qualité et la spécification réels de votre produit."
+      },
+      "industrialA": {
+        "name": "Intrant Industriel A",
+        "description": "Entrée fictive — remplacez-la par le nom, la qualité et la spécification réels de votre produit."
+      },
+      "industrialB": {
+        "name": "Intrant Industriel B",
+        "description": "Entrée fictive — remplacez-la par le nom, la qualité et la spécification réels de votre produit."
+      },
+      "industrialC": {
+        "name": "Intrant Industriel C",
+        "description": "Entrée fictive — remplacez-la par le nom, la qualité et la spécification réels de votre produit."
+      },
+      "specialtyA": {
+        "name": "Produit Spécialisé A",
+        "description": "Entrée fictive — remplacez-la par le nom, la qualité et la spécification réels de votre produit."
+      },
+      "specialtyB": {
+        "name": "Produit Spécialisé B",
+        "description": "Entrée fictive — remplacez-la par le nom, la qualité et la spécification réels de votre produit."
+      },
+      "specialtyC": {
+        "name": "Produit Spécialisé C",
+        "description": "Entrée fictive — remplacez-la par le nom, la qualité et la spécification réels de votre produit."
+      }
+    },
+    "specSheetCta": "Demander la Fiche Technique",
+    "ctaTitle": "Vous cherchez un produit spécifique ?",
+    "ctaBody": "Dites-nous ce dont vous avez besoin et nous confirmerons la disponibilité et la spécification actuelles."
   }
 }
