@@ -44,7 +44,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </div>
         <div className="absolute inset-0 bg-gradient-to-r from-blue-dark from-5% via-blue-dark/55 via-40% to-transparent to-85%" />
         <div className="relative mx-auto max-w-7xl px-6 py-24 sm:py-40">
-          <p className="text-xs tracking-[0.25em] uppercase text-white/75 mb-5">{h.heroEyebrow}</p>
+          {/* <p className="text-xs tracking-[0.25em] uppercase text-white/75 mb-5">{h.heroEyebrow}</p> */}
           <h1 className="font-display text-5xl sm:text-7xl font-bold uppercase leading-[1.02] max-w-3xl">{h.heroTitle}</h1>
           <span className="red-bar mt-7" />
           <p className="mt-7 text-white/85 text-lg leading-relaxed max-w-2xl">{h.heroSubtitle}</p>
@@ -57,7 +57,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </div>
       </section>
 
-      <StatsBar stats={h.stats} />
+      {/* <StatsBar stats={h.stats} /> */}
 
       {/* Intro */}
       <Reveal className="mx-auto max-w-7xl px-6 py-20 grid grid-cols-1 lg:grid-cols-2 gap-14 items-center">
