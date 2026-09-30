@@ -26,8 +26,8 @@ export const COMPANY_FOUNDED_YEAR = 20206;
 export type SocialPlatform = "youtube" | "facebook" | "linkedin" | "x" | "instagram";
 
 export const SOCIAL_LINKS: { platform: SocialPlatform; name: string; href: string }[] = [
-  { platform: "youtube", name: "YouTube", href: "https://ng.linkedin.com/company/dangotegroup" },
-  { platform: "facebook", name: "Facebook", href: "https://ng.linkedin.com/company/dangotegroup" },
+  { platform: "youtube", name: "YouTube", href: "https://www.youtube.com/@DangoteGroup?sub_confirmation=1" },
+  { platform: "facebook", name: "Facebook", href: "facebook.com/dangotegroup" },
   { platform: "linkedin", name: "LinkedIn", href: "https://ng.linkedin.com/company/dangotegroup" },
   { platform: "x", name: "X", href: "https://x.com/DangoteGroup?lang=en" },
   { platform: "instagram", name: "Instagram", href: "https://www.instagram.com/dangotegroup/?hl=en" },
