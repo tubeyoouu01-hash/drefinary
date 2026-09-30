@@ -13,9 +13,10 @@ export const SITE_SHORT_NAME = "Dangote";
 export const SITE_SUFFIX = "Refinery";
 export const SITE_DOMAIN = "sales.enquiry@dangote.com";
 
-export const CONTACT_EMAIL = `sales.enquiry@dangote.com`;
-export const CONTACT_PHONE_DISPLAY = "+234 707 470 2100";
-export const CONTACT_PHONE_HREF = "+2348055501234"; // for tel: links
+export const CONTACT_EMAIL = `Export@dangote-refinery.com`;
+// export const CONTACT_PHONE_DISPLAY = "+234 707 470 2100";
+export const CONTACT_PHONE_DISPLAY = "+234 814 4970889";
+export const CONTACT_PHONE_HREF = "+2348144970889"; // for tel: links
 
 export const OFFICE_ADDRESS_LINE = "Lekki Free Trade Zone, ";
 export const OFFICE_CITY_LINE = "Ibeju Lekki, Lagos, Nigeria";
